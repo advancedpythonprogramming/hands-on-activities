@@ -1,0 +1,3000 @@
+2013	June	Sunday	yellow	20-21	Withdraw without being attended
+2013	May	Friday	red	08-09	Release by dying
+2013	October	Friday	yellow	17-18	Withdraw without being attended
+2013	October	Thursday	blue	11-12	Release requested by patient
+2013	April	Friday	orange	23-24	Withdraw without being attended
+2013	September	Wednesday	red	22-23	Release by internal transference - Hospitalization
+2013	September	Sunday	red	18-19	Release by internal transference - Hospitalization
+2013	September	Sunday	green	21-22	Withdraw without being attended
+2014	December	Thursday	yellow	08-09	Withdraw without being attended
+2013	September	Tuesday	yellow	22-23	Release by internal transference - Hospitalization
+2014	January	Friday	yellow	20-21	Release requested by patient
+2013	October	Tuesday	orange	10-11	Release by dying
+2013	February	Wednesday	blue	06-07	Withdraw without being attended
+2014	February	Saturday	yellow	03-04	Release requested by patient
+2013	March	Sunday	orange	16-17	Administrative release
+2013	April	Thursday	green	05-06	Release by internal transference - Hospitalization
+2013	October	Friday	green	01-02	Administrative release
+2013	June	Wednesday	yellow	00-01	Release by internal transference - Hospitalization
+2014	July	Saturday	green	17-18	Administrative release
+2013	November	Saturday	blue	09-10	Release by internal transference - Hospitalization
+2014	February	Tuesday	green	14-15	Release requested by patient
+2013	February	Monday	blue	20-21	Release requested by patient
+2013	November	Saturday	orange	02-03	Administrative release
+2013	October	Friday	green	13-14	Administrative release
+2013	August	Thursday	orange	04-05	Withdraw without being attended
+2013	March	Friday	orange	21-22	Release by dying
+2013	September	Wednesday	blue	13-14	Release by internal transference - Hospitalization
+2013	October	Thursday	green	10-11	Release requested by patient
+2013	June	Friday	blue	09-10	Release by internal transference - Hospitalization
+2013	July	Friday	blue	17-18	Administrative release
+2013	June	Sunday	blue	22-23	Administrative release
+2014	June	Friday	orange	17-18	Withdraw without being attended
+2013	May	Monday	red	14-15	Withdraw without being attended
+2013	March	Monday	green	17-18	Release by internal transference - Hospitalization
+2013	February	Wednesday	red	18-19	Release requested by patient
+2013	March	Sunday	yellow	14-15	Release requested by patient
+2014	March	Thursday	red	16-17	Release by internal transference - Hospitalization
+2014	May	Sunday	blue	19-20	Release by dying
+2014	August	Saturday	blue	04-05	Release by internal transference - Hospitalization
+2013	February	Monday	red	12-13	Release requested by patient
+2014	May	Wednesday	yellow	07-08	Administrative release
+2014	September	Tuesday	green	10-11	Release by dying
+2013	May	Friday	blue	07-08	Withdraw without being attended
+2014	April	Thursday	blue	23-24	Withdraw without being attended
+2013	August	Monday	green	16-17	Release requested by patient
+2013	November	Saturday	orange	23-24	Withdraw without being attended
+2013	July	Wednesday	green	08-09	Administrative release
+2013	April	Friday	green	11-12	Release by internal transference - Hospitalization
+2013	August	Tuesday	red	14-15	Release by internal transference - Hospitalization
+2013	October	Tuesday	red	05-06	Administrative release
+2013	May	Thursday	yellow	17-18	Release by dying
+2013	April	Sunday	orange	03-04	Release by dying
+2013	August	Wednesday	red	14-15	Administrative release
+2013	April	Saturday	orange	08-09	Administrative release
+2013	September	Tuesday	orange	18-19	Withdraw without being attended
+2013	November	Friday	green	16-17	Withdraw without being attended
+2013	February	Friday	red	12-13	Administrative release
+2013	June	Sunday	blue	00-01	Administrative release
+2013	August	Sunday	green	04-05	Release requested by patient
+2013	September	Monday	green	07-08	Withdraw without being attended
+2014	April	Friday	blue	00-01	Administrative release
+2013	January	Tuesday	orange	01-02	Release by internal transference - Hospitalization
+2013	July	Thursday	blue	23-24	Release by dying
+2013	January	Thursday	orange	02-03	Release by dying
+2014	September	Sunday	green	13-14	Release by internal transference - Hospitalization
+2014	June	Thursday	green	14-15	Withdraw without being attended
+2013	October	Saturday	red	14-15	Release by dying
+2013	July	Saturday	green	05-06	Release requested by patient
+2013	May	Saturday	yellow	01-02	Release by internal transference - Hospitalization
+2013	October	Saturday	orange	07-08	Administrative release
+2014	October	Thursday	yellow	05-06	Release requested by patient
+2013	March	Sunday	red	14-15	Release by internal transference - Hospitalization
+2013	March	Thursday	blue	04-05	Withdraw without being attended
+2013	May	Tuesday	yellow	03-04	Release by dying
+2013	September	Tuesday	green	01-02	Release by dying
+2013	July	Tuesday	yellow	08-09	Release by internal transference - Hospitalization
+2013	August	Saturday	green	15-16	Release by dying
+2013	April	Monday	green	23-24	Administrative release
+2013	June	Sunday	blue	12-13	Release requested by patient
+2013	October	Monday	blue	20-21	Release by dying
+2014	February	Thursday	green	07-08	Release requested by patient
+2013	October	Monday	orange	07-08	Release requested by patient
+2014	March	Saturday	blue	03-04	Release by internal transference - Hospitalization
+2014	June	Thursday	red	12-13	Release by internal transference - Hospitalization
+2013	April	Thursday	green	11-12	Release requested by patient
+2013	February	Friday	yellow	21-22	Release by internal transference - Hospitalization
+2013	March	Tuesday	orange	20-21	Release by internal transference - Hospitalization
+2013	June	Monday	yellow	14-15	Withdraw without being attended
+2013	April	Tuesday	blue	12-13	Withdraw without being attended
+2013	March	Wednesday	red	10-11	Withdraw without being attended
+2013	April	Monday	green	13-14	Withdraw without being attended
+2013	June	Thursday	orange	20-21	Release by internal transference - Hospitalization
+2013	September	Thursday	orange	12-13	Administrative release
+2013	August	Saturday	green	14-15	Release requested by patient
+2013	October	Saturday	yellow	21-22	Administrative release
+2013	May	Sunday	blue	04-05	Release requested by patient
+2013	January	Monday	orange	14-15	Administrative release
+2013	January	Wednesday	red	00-01	Release by dying
+2013	October	Saturday	orange	08-09	Withdraw without being attended
+2013	June	Thursday	blue	09-10	Administrative release
+2013	July	Wednesday	yellow	06-07	Release by dying
+2014	September	Friday	green	17-18	Administrative release
+2013	May	Monday	blue	14-15	Withdraw without being attended
+2014	April	Thursday	orange	19-20	Withdraw without being attended
+2013	October	Wednesday	orange	18-19	Withdraw without being attended
+2014	July	Friday	red	09-10	Release by internal transference - Hospitalization
+2014	April	Wednesday	green	20-21	Administrative release
+2014	January	Thursday	green	00-01	Release requested by patient
+2013	August	Friday	orange	20-21	Administrative release
+2013	October	Friday	blue	14-15	Administrative release
+2013	January	Thursday	blue	06-07	Withdraw without being attended
+2013	May	Tuesday	red	06-07	Withdraw without being attended
+2013	October	Tuesday	blue	14-15	Release by dying
+2013	October	Saturday	yellow	16-17	Release by dying
+2013	June	Tuesday	orange	04-05	Release by dying
+2013	September	Saturday	orange	19-20	Release by internal transference - Hospitalization
+2013	December	Thursday	red	21-22	Release by dying
+2013	February	Wednesday	red	10-11	Administrative release
+2013	August	Thursday	green	02-03	Release requested by patient
+2013	August	Friday	orange	13-14	Release requested by patient
+2014	October	Monday	orange	15-16	Release by dying
+2013	March	Tuesday	blue	05-06	Administrative release
+2013	October	Friday	red	07-08	Withdraw without being attended
+2013	December	Tuesday	red	18-19	Release by internal transference - Hospitalization
+2013	September	Saturday	yellow	14-15	Release requested by patient
+2013	August	Friday	blue	22-23	Release requested by patient
+2013	January	Saturday	red	17-18	Withdraw without being attended
+2013	May	Wednesday	yellow	06-07	Release by internal transference - Hospitalization
+2013	May	Saturday	yellow	08-09	Withdraw without being attended
+2013	January	Wednesday	blue	02-03	Release requested by patient
+2014	March	Thursday	orange	20-21	Administrative release
+2013	December	Tuesday	yellow	23-24	Release by internal transference - Hospitalization
+2013	April	Thursday	orange	16-17	Administrative release
+2014	March	Friday	blue	09-10	Withdraw without being attended
+2013	October	Wednesday	blue	23-24	Release by dying
+2013	July	Wednesday	green	15-16	Withdraw without being attended
+2013	March	Thursday	red	01-02	Administrative release
+2013	August	Thursday	orange	07-08	Release by dying
+2013	September	Friday	orange	18-19	Release requested by patient
+2013	March	Friday	yellow	12-13	Withdraw without being attended
+2013	August	Thursday	green	22-23	Release requested by patient
+2013	February	Friday	red	10-11	Withdraw without being attended
+2013	July	Tuesday	green	21-22	Withdraw without being attended
+2013	July	Friday	red	18-19	Release by dying
+2013	December	Monday	orange	15-16	Release by internal transference - Hospitalization
+2013	June	Saturday	yellow	20-21	Release requested by patient
+2013	July	Friday	green	10-11	Withdraw without being attended
+2013	April	Saturday	orange	06-07	Release requested by patient
+2013	May	Thursday	green	11-12	Withdraw without being attended
+2013	September	Tuesday	orange	12-13	Release by internal transference - Hospitalization
+2013	September	Wednesday	yellow	14-15	Release requested by patient
+2013	September	Sunday	green	18-19	Release by dying
+2013	February	Tuesday	yellow	13-14	Administrative release
+2013	January	Saturday	blue	02-03	Administrative release
+2013	October	Wednesday	blue	06-07	Release requested by patient
+2014	July	Wednesday	blue	14-15	Release by dying
+2013	January	Sunday	yellow	03-04	Release by internal transference - Hospitalization
+2013	January	Saturday	blue	23-24	Release by internal transference - Hospitalization
+2013	January	Monday	orange	01-02	Withdraw without being attended
+2013	January	Thursday	yellow	13-14	Withdraw without being attended
+2013	January	Friday	yellow	10-11	Release requested by patient
+2013	January	Monday	red	20-21	Administrative release
+2013	July	Sunday	red	19-20	Release by dying
+2013	September	Sunday	green	11-12	Release requested by patient
+2013	February	Wednesday	blue	07-08	Administrative release
+2013	September	Sunday	yellow	04-05	Release requested by patient
+2014	June	Wednesday	orange	01-02	Release by internal transference - Hospitalization
+2013	March	Tuesday	green	04-05	Release by internal transference - Hospitalization
+2014	December	Tuesday	orange	03-04	Release by internal transference - Hospitalization
+2013	May	Friday	green	23-24	Release by dying
+2013	April	Friday	orange	17-18	Release by internal transference - Hospitalization
+2013	May	Tuesday	green	14-15	Administrative release
+2013	March	Friday	green	12-13	Release by dying
+2013	May	Thursday	red	15-16	Release by dying
+2013	May	Friday	blue	15-16	Release requested by patient
+2013	May	Sunday	yellow	14-15	Administrative release
+2013	August	Thursday	orange	09-10	Withdraw without being attended
+2013	October	Thursday	green	01-02	Administrative release
+2013	July	Wednesday	orange	02-03	Release requested by patient
+2013	October	Wednesday	yellow	03-04	Administrative release
+2013	June	Thursday	green	16-17	Release by internal transference - Hospitalization
+2013	May	Sunday	blue	08-09	Release requested by patient
+2013	February	Saturday	green	00-01	Release requested by patient
+2013	December	Thursday	blue	03-04	Release requested by patient
+2013	July	Monday	orange	08-09	Withdraw without being attended
+2013	May	Tuesday	yellow	19-20	Release by dying
+2013	April	Saturday	blue	18-19	Withdraw without being attended
+2013	January	Friday	red	04-05	Release by dying
+2014	June	Tuesday	green	22-23	Administrative release
+2014	December	Saturday	green	16-17	Release requested by patient
+2013	May	Monday	blue	01-02	Release by internal transference - Hospitalization
+2013	January	Sunday	green	23-24	Release by dying
+2014	May	Tuesday	green	11-12	Release by dying
+2013	February	Friday	yellow	12-13	Release by internal transference - Hospitalization
+2013	February	Tuesday	green	01-02	Administrative release
+2014	May	Tuesday	yellow	17-18	Withdraw without being attended
+2013	February	Monday	green	09-10	Withdraw without being attended
+2014	February	Tuesday	yellow	23-24	Release requested by patient
+2013	September	Monday	orange	13-14	Release by internal transference - Hospitalization
+2013	May	Friday	red	22-23	Release by internal transference - Hospitalization
+2013	October	Saturday	orange	20-21	Withdraw without being attended
+2014	July	Saturday	blue	11-12	Release by dying
+2013	November	Thursday	blue	09-10	Release by dying
+2013	April	Tuesday	yellow	05-06	Release by dying
+2013	July	Monday	orange	17-18	Withdraw without being attended
+2013	January	Thursday	yellow	10-11	Withdraw without being attended
+2013	January	Friday	yellow	11-12	Administrative release
+2013	February	Sunday	orange	16-17	Release by internal transference - Hospitalization
+2013	July	Saturday	orange	07-08	Release requested by patient
+2014	November	Sunday	orange	06-07	Release requested by patient
+2013	November	Tuesday	red	11-12	Release requested by patient
+2013	May	Friday	yellow	14-15	Release by dying
+2013	December	Sunday	blue	17-18	Administrative release
+2013	September	Wednesday	green	17-18	Release by internal transference - Hospitalization
+2013	November	Sunday	green	18-19	Release by dying
+2014	October	Saturday	red	03-04	Release requested by patient
+2013	March	Monday	orange	23-24	Release by dying
+2013	July	Sunday	orange	23-24	Release requested by patient
+2013	March	Monday	green	05-06	Release by internal transference - Hospitalization
+2013	October	Thursday	red	04-05	Administrative release
+2013	October	Friday	red	00-01	Administrative release
+2013	July	Thursday	green	18-19	Administrative release
+2013	July	Saturday	red	18-19	Withdraw without being attended
+2013	October	Monday	blue	23-24	Release requested by patient
+2013	September	Tuesday	blue	13-14	Administrative release
+2014	December	Friday	green	04-05	Release by internal transference - Hospitalization
+2013	April	Tuesday	yellow	22-23	Withdraw without being attended
+2014	December	Saturday	red	22-23	Release by dying
+2013	February	Saturday	green	10-11	Release by dying
+2013	April	Monday	green	02-03	Release by internal transference - Hospitalization
+2013	September	Tuesday	blue	08-09	Release by dying
+2013	January	Saturday	green	01-02	Release requested by patient
+2013	August	Saturday	green	04-05	Release requested by patient
+2013	April	Thursday	orange	21-22	Release by dying
+2013	November	Tuesday	blue	02-03	Release by internal transference - Hospitalization
+2013	January	Sunday	orange	17-18	Release by internal transference - Hospitalization
+2013	September	Thursday	green	07-08	Withdraw without being attended
+2013	September	Thursday	red	00-01	Administrative release
+2013	September	Tuesday	yellow	00-01	Release by internal transference - Hospitalization
+2013	October	Friday	blue	21-22	Administrative release
+2013	January	Wednesday	yellow	10-11	Release requested by patient
+2013	February	Wednesday	green	09-10	Release requested by patient
+2013	April	Wednesday	red	23-24	Release by internal transference - Hospitalization
+2013	August	Sunday	yellow	10-11	Release by dying
+2013	October	Thursday	orange	23-24	Withdraw without being attended
+2014	October	Tuesday	blue	11-12	Release requested by patient
+2013	September	Wednesday	red	18-19	Withdraw without being attended
+2013	September	Monday	yellow	09-10	Administrative release
+2013	October	Monday	orange	16-17	Withdraw without being attended
+2013	March	Sunday	orange	01-02	Release by internal transference - Hospitalization
+2013	October	Monday	orange	04-05	Release by internal transference - Hospitalization
+2013	March	Friday	red	05-06	Release by dying
+2013	May	Monday	orange	02-03	Withdraw without being attended
+2013	May	Tuesday	red	19-20	Release by internal transference - Hospitalization
+2014	August	Monday	yellow	08-09	Administrative release
+2013	August	Saturday	red	23-24	Administrative release
+2014	June	Monday	yellow	18-19	Release by dying
+2013	January	Thursday	blue	16-17	Release by internal transference - Hospitalization
+2014	March	Tuesday	yellow	23-24	Release by internal transference - Hospitalization
+2013	June	Monday	yellow	20-21	Withdraw without being attended
+2013	June	Monday	orange	07-08	Release requested by patient
+2013	October	Sunday	yellow	13-14	Release by internal transference - Hospitalization
+2013	November	Thursday	green	11-12	Administrative release
+2014	September	Thursday	blue	05-06	Release by dying
+2013	January	Monday	blue	18-19	Release by internal transference - Hospitalization
+2013	May	Tuesday	red	04-05	Administrative release
+2013	July	Sunday	blue	09-10	Release by internal transference - Hospitalization
+2013	June	Monday	red	16-17	Release requested by patient
+2013	August	Sunday	orange	02-03	Withdraw without being attended
+2013	February	Thursday	orange	20-21	Release by internal transference - Hospitalization
+2013	July	Friday	blue	05-06	Withdraw without being attended
+2013	May	Thursday	yellow	23-24	Release by dying
+2013	November	Saturday	orange	23-24	Release by internal transference - Hospitalization
+2014	March	Thursday	orange	02-03	Release by internal transference - Hospitalization
+2013	June	Sunday	orange	23-24	Administrative release
+2013	March	Tuesday	red	11-12	Administrative release
+2013	December	Thursday	yellow	14-15	Release by internal transference - Hospitalization
+2013	February	Friday	green	19-20	Administrative release
+2013	February	Saturday	green	14-15	Withdraw without being attended
+2013	July	Sunday	blue	19-20	Release requested by patient
+2013	December	Sunday	yellow	12-13	Release by internal transference - Hospitalization
+2013	September	Monday	red	11-12	Release by internal transference - Hospitalization
+2013	June	Wednesday	green	12-13	Release by internal transference - Hospitalization
+2013	April	Wednesday	blue	21-22	Release requested by patient
+2013	July	Sunday	green	14-15	Withdraw without being attended
+2013	July	Sunday	yellow	23-24	Withdraw without being attended
+2013	August	Thursday	orange	23-24	Release by dying
+2013	November	Saturday	yellow	02-03	Release by internal transference - Hospitalization
+2013	July	Monday	blue	14-15	Release by internal transference - Hospitalization
+2013	June	Tuesday	yellow	19-20	Withdraw without being attended
+2013	May	Monday	yellow	16-17	Release requested by patient
+2014	September	Monday	green	09-10	Withdraw without being attended
+2014	January	Tuesday	green	11-12	Release by dying
+2013	June	Tuesday	yellow	15-16	Withdraw without being attended
+2013	September	Tuesday	blue	16-17	Release requested by patient
+2013	July	Wednesday	blue	13-14	Release by internal transference - Hospitalization
+2013	April	Sunday	green	11-12	Administrative release
+2013	September	Sunday	blue	02-03	Withdraw without being attended
+2013	November	Thursday	orange	23-24	Release by internal transference - Hospitalization
+2013	October	Tuesday	yellow	15-16	Administrative release
+2013	June	Friday	red	03-04	Release by internal transference - Hospitalization
+2014	August	Friday	orange	15-16	Withdraw without being attended
+2013	November	Saturday	orange	00-01	Release by internal transference - Hospitalization
+2014	October	Tuesday	yellow	14-15	Administrative release
+2013	January	Saturday	yellow	07-08	Release by dying
+2013	October	Tuesday	red	01-02	Release requested by patient
+2013	November	Sunday	blue	03-04	Release by internal transference - Hospitalization
+2013	June	Thursday	yellow	16-17	Release by dying
+2013	October	Tuesday	red	06-07	Release by dying
+2013	July	Friday	orange	19-20	Release requested by patient
+2013	July	Monday	orange	00-01	Release by internal transference - Hospitalization
+2014	May	Sunday	yellow	20-21	Administrative release
+2014	December	Tuesday	green	07-08	Release by internal transference - Hospitalization
+2014	May	Tuesday	orange	11-12	Release by internal transference - Hospitalization
+2013	December	Thursday	green	19-20	Administrative release
+2013	March	Sunday	blue	05-06	Administrative release
+2013	August	Tuesday	blue	23-24	Administrative release
+2013	April	Thursday	yellow	08-09	Release by internal transference - Hospitalization
+2013	September	Thursday	orange	22-23	Release requested by patient
+2013	January	Thursday	blue	09-10	Release by internal transference - Hospitalization
+2013	June	Wednesday	red	09-10	Release by internal transference - Hospitalization
+2013	June	Tuesday	green	06-07	Release requested by patient
+2014	April	Tuesday	yellow	15-16	Withdraw without being attended
+2014	August	Thursday	yellow	10-11	Release by internal transference - Hospitalization
+2013	July	Friday	green	09-10	Administrative release
+2014	April	Sunday	orange	19-20	Release requested by patient
+2014	August	Thursday	red	05-06	Release by dying
+2013	February	Saturday	red	00-01	Release by dying
+2013	June	Saturday	green	10-11	Withdraw without being attended
+2013	February	Thursday	yellow	15-16	Withdraw without being attended
+2013	August	Tuesday	red	16-17	Release by internal transference - Hospitalization
+2013	December	Wednesday	blue	14-15	Release by dying
+2014	August	Friday	red	01-02	Release by internal transference - Hospitalization
+2013	January	Saturday	orange	17-18	Release by internal transference - Hospitalization
+2014	May	Thursday	red	21-22	Administrative release
+2013	May	Friday	yellow	12-13	Release requested by patient
+2014	January	Tuesday	green	02-03	Release by dying
+2013	March	Tuesday	red	18-19	Release by internal transference - Hospitalization
+2013	January	Thursday	blue	23-24	Release requested by patient
+2013	February	Wednesday	yellow	21-22	Withdraw without being attended
+2013	February	Wednesday	blue	16-17	Release requested by patient
+2013	October	Sunday	blue	20-21	Release by dying
+2013	May	Wednesday	yellow	23-24	Withdraw without being attended
+2013	May	Sunday	blue	04-05	Release by dying
+2013	December	Friday	blue	19-20	Release by dying
+2013	December	Tuesday	yellow	21-22	Release requested by patient
+2014	July	Monday	yellow	02-03	Withdraw without being attended
+2013	July	Sunday	blue	01-02	Release by internal transference - Hospitalization
+2013	July	Monday	orange	03-04	Release by dying
+2013	July	Tuesday	yellow	03-04	Release requested by patient
+2013	November	Wednesday	orange	03-04	Administrative release
+2013	October	Sunday	blue	14-15	Release by dying
+2013	November	Wednesday	green	12-13	Release by dying
+2013	September	Tuesday	red	21-22	Administrative release
+2013	July	Tuesday	blue	01-02	Release requested by patient
+2013	June	Monday	yellow	19-20	Release by internal transference - Hospitalization
+2014	September	Wednesday	red	07-08	Withdraw without being attended
+2013	October	Sunday	blue	20-21	Release by internal transference - Hospitalization
+2013	July	Thursday	yellow	12-13	Release requested by patient
+2013	August	Friday	green	01-02	Release requested by patient
+2013	December	Monday	yellow	08-09	Release requested by patient
+2014	September	Thursday	yellow	01-02	Administrative release
+2014	July	Sunday	blue	14-15	Release by internal transference - Hospitalization
+2013	June	Thursday	orange	14-15	Withdraw without being attended
+2013	May	Friday	red	23-24	Release by dying
+2013	November	Thursday	red	14-15	Release by dying
+2014	February	Tuesday	green	10-11	Release requested by patient
+2014	June	Sunday	orange	09-10	Release by internal transference - Hospitalization
+2013	July	Tuesday	blue	14-15	Withdraw without being attended
+2013	December	Saturday	blue	01-02	Release by dying
+2013	December	Thursday	green	14-15	Withdraw without being attended
+2013	May	Thursday	green	02-03	Release by dying
+2014	August	Monday	yellow	21-22	Release by internal transference - Hospitalization
+2013	September	Friday	blue	16-17	Release by internal transference - Hospitalization
+2014	September	Friday	red	03-04	Release by internal transference - Hospitalization
+2013	February	Saturday	yellow	01-02	Withdraw without being attended
+2013	February	Tuesday	red	14-15	Withdraw without being attended
+2013	April	Wednesday	green	16-17	Release by dying
+2013	November	Monday	orange	20-21	Administrative release
+2013	May	Thursday	blue	16-17	Release requested by patient
+2013	November	Friday	green	05-06	Release by internal transference - Hospitalization
+2014	November	Saturday	green	05-06	Withdraw without being attended
+2013	December	Thursday	yellow	14-15	Release by dying
+2013	December	Thursday	green	05-06	Withdraw without being attended
+2014	December	Thursday	blue	11-12	Release by dying
+2014	October	Thursday	orange	06-07	Administrative release
+2013	November	Thursday	green	13-14	Release requested by patient
+2013	March	Saturday	blue	14-15	Release by dying
+2013	October	Tuesday	red	05-06	Administrative release
+2013	May	Monday	red	22-23	Release requested by patient
+2013	November	Saturday	orange	04-05	Release requested by patient
+2013	August	Tuesday	orange	10-11	Withdraw without being attended
+2013	August	Friday	red	16-17	Release by dying
+2013	July	Tuesday	red	09-10	Release by internal transference - Hospitalization
+2014	November	Thursday	green	23-24	Release requested by patient
+2013	June	Monday	yellow	15-16	Release by dying
+2013	December	Sunday	red	05-06	Release by internal transference - Hospitalization
+2013	October	Friday	blue	21-22	Release requested by patient
+2013	March	Tuesday	yellow	15-16	Administrative release
+2013	November	Saturday	blue	14-15	Withdraw without being attended
+2014	November	Monday	red	01-02	Release requested by patient
+2014	July	Monday	green	02-03	Administrative release
+2014	November	Wednesday	blue	04-05	Release by dying
+2013	October	Sunday	yellow	04-05	Release by dying
+2014	November	Tuesday	blue	14-15	Release requested by patient
+2013	April	Thursday	yellow	21-22	Administrative release
+2013	August	Saturday	blue	22-23	Release requested by patient
+2013	October	Monday	yellow	21-22	Release requested by patient
+2013	May	Monday	orange	21-22	Administrative release
+2014	September	Monday	yellow	21-22	Release by internal transference - Hospitalization
+2013	July	Wednesday	yellow	11-12	Release by internal transference - Hospitalization
+2013	September	Sunday	red	05-06	Release requested by patient
+2013	May	Friday	green	06-07	Administrative release
+2013	June	Saturday	green	16-17	Release requested by patient
+2014	March	Sunday	green	21-22	Administrative release
+2013	January	Sunday	green	01-02	Release by dying
+2013	July	Sunday	orange	00-01	Withdraw without being attended
+2013	April	Sunday	red	17-18	Withdraw without being attended
+2014	June	Monday	orange	13-14	Release by internal transference - Hospitalization
+2013	July	Thursday	red	07-08	Administrative release
+2013	February	Monday	red	06-07	Administrative release
+2013	August	Friday	green	23-24	Release requested by patient
+2014	April	Friday	green	08-09	Withdraw without being attended
+2013	May	Wednesday	red	02-03	Release by dying
+2013	April	Friday	yellow	08-09	Administrative release
+2013	October	Sunday	orange	10-11	Administrative release
+2013	January	Wednesday	blue	08-09	Release by internal transference - Hospitalization
+2014	April	Wednesday	yellow	23-24	Release requested by patient
+2013	January	Tuesday	green	10-11	Withdraw without being attended
+2013	January	Tuesday	blue	03-04	Release by internal transference - Hospitalization
+2013	February	Monday	yellow	23-24	Release by dying
+2014	June	Saturday	red	19-20	Release by internal transference - Hospitalization
+2013	June	Sunday	green	12-13	Withdraw without being attended
+2013	January	Friday	green	13-14	Release by internal transference - Hospitalization
+2013	May	Sunday	red	13-14	Administrative release
+2013	May	Wednesday	yellow	17-18	Release by internal transference - Hospitalization
+2014	August	Friday	orange	20-21	Release requested by patient
+2014	April	Saturday	red	19-20	Release by internal transference - Hospitalization
+2013	April	Sunday	green	07-08	Administrative release
+2013	December	Sunday	blue	19-20	Administrative release
+2014	April	Sunday	blue	03-04	Release by dying
+2013	March	Monday	blue	18-19	Withdraw without being attended
+2013	October	Tuesday	green	11-12	Withdraw without being attended
+2014	May	Saturday	yellow	12-13	Release by dying
+2014	April	Thursday	blue	06-07	Release by dying
+2013	May	Wednesday	yellow	12-13	Release by dying
+2013	February	Thursday	blue	11-12	Administrative release
+2013	July	Saturday	green	09-10	Release requested by patient
+2013	May	Monday	yellow	03-04	Release by dying
+2013	September	Saturday	yellow	15-16	Release by internal transference - Hospitalization
+2014	July	Tuesday	yellow	04-05	Release by dying
+2014	June	Friday	blue	19-20	Release by dying
+2014	February	Thursday	red	04-05	Administrative release
+2013	August	Tuesday	yellow	08-09	Administrative release
+2014	June	Sunday	green	11-12	Administrative release
+2013	January	Wednesday	blue	17-18	Release by dying
+2013	March	Friday	green	07-08	Release by internal transference - Hospitalization
+2013	January	Saturday	red	22-23	Release by internal transference - Hospitalization
+2013	February	Tuesday	red	15-16	Release by internal transference - Hospitalization
+2013	July	Saturday	red	22-23	Release by internal transference - Hospitalization
+2013	November	Saturday	green	06-07	Release by dying
+2013	September	Tuesday	green	22-23	Administrative release
+2014	November	Monday	green	02-03	Withdraw without being attended
+2013	July	Saturday	green	13-14	Administrative release
+2013	October	Tuesday	yellow	02-03	Release by dying
+2014	May	Friday	blue	08-09	Release by internal transference - Hospitalization
+2013	November	Thursday	blue	04-05	Release requested by patient
+2014	July	Sunday	red	02-03	Withdraw without being attended
+2013	November	Saturday	orange	03-04	Release by internal transference - Hospitalization
+2013	December	Friday	yellow	10-11	Administrative release
+2014	February	Tuesday	green	03-04	Release by dying
+2013	January	Monday	orange	03-04	Withdraw without being attended
+2013	September	Saturday	red	04-05	Release by internal transference - Hospitalization
+2013	January	Tuesday	blue	03-04	Withdraw without being attended
+2013	April	Friday	orange	22-23	Release requested by patient
+2014	August	Wednesday	blue	10-11	Release by dying
+2013	March	Saturday	orange	09-10	Release requested by patient
+2014	September	Saturday	orange	21-22	Withdraw without being attended
+2013	July	Monday	blue	06-07	Withdraw without being attended
+2013	November	Tuesday	blue	00-01	Release by dying
+2013	April	Friday	green	05-06	Withdraw without being attended
+2013	November	Wednesday	yellow	18-19	Administrative release
+2013	March	Tuesday	blue	16-17	Release by internal transference - Hospitalization
+2013	September	Sunday	orange	03-04	Withdraw without being attended
+2013	November	Wednesday	green	12-13	Release by dying
+2013	August	Friday	blue	14-15	Administrative release
+2013	July	Thursday	blue	03-04	Release by dying
+2014	May	Wednesday	blue	16-17	Withdraw without being attended
+2013	April	Wednesday	red	00-01	Administrative release
+2013	August	Wednesday	green	06-07	Release by internal transference - Hospitalization
+2013	January	Thursday	green	06-07	Release requested by patient
+2014	December	Saturday	orange	13-14	Administrative release
+2013	October	Friday	blue	01-02	Release requested by patient
+2013	November	Wednesday	green	21-22	Release by internal transference - Hospitalization
+2013	October	Thursday	yellow	11-12	Withdraw without being attended
+2013	May	Monday	blue	04-05	Release by dying
+2013	March	Sunday	yellow	19-20	Withdraw without being attended
+2013	April	Friday	orange	20-21	Administrative release
+2014	January	Saturday	yellow	17-18	Release requested by patient
+2013	June	Wednesday	red	05-06	Withdraw without being attended
+2013	February	Tuesday	blue	04-05	Release requested by patient
+2014	July	Wednesday	red	11-12	Withdraw without being attended
+2013	June	Saturday	orange	12-13	Release by internal transference - Hospitalization
+2013	February	Thursday	blue	19-20	Release requested by patient
+2014	February	Sunday	red	06-07	Administrative release
+2013	June	Sunday	yellow	05-06	Release requested by patient
+2014	May	Thursday	orange	20-21	Withdraw without being attended
+2013	March	Friday	orange	16-17	Withdraw without being attended
+2013	December	Friday	blue	04-05	Release by dying
+2013	December	Monday	red	18-19	Administrative release
+2013	August	Sunday	green	03-04	Release by dying
+2013	February	Monday	green	02-03	Release by dying
+2013	May	Sunday	yellow	11-12	Release by dying
+2013	August	Friday	blue	13-14	Release by internal transference - Hospitalization
+2013	July	Tuesday	green	16-17	Release by internal transference - Hospitalization
+2013	September	Friday	red	09-10	Release requested by patient
+2013	November	Friday	red	16-17	Release by internal transference - Hospitalization
+2013	June	Tuesday	yellow	13-14	Administrative release
+2014	October	Wednesday	orange	09-10	Release by internal transference - Hospitalization
+2013	August	Sunday	green	22-23	Administrative release
+2014	August	Friday	green	08-09	Release by dying
+2013	December	Thursday	blue	23-24	Release by internal transference - Hospitalization
+2013	November	Friday	blue	07-08	Withdraw without being attended
+2013	June	Sunday	yellow	12-13	Release requested by patient
+2013	July	Friday	yellow	14-15	Withdraw without being attended
+2013	September	Monday	orange	09-10	Administrative release
+2013	April	Monday	red	11-12	Administrative release
+2014	September	Wednesday	orange	13-14	Release by dying
+2014	May	Wednesday	yellow	21-22	Release by dying
+2013	April	Friday	blue	03-04	Release requested by patient
+2013	March	Tuesday	orange	00-01	Release by internal transference - Hospitalization
+2013	November	Tuesday	blue	08-09	Administrative release
+2013	January	Wednesday	yellow	16-17	Release by dying
+2013	August	Friday	red	01-02	Release by internal transference - Hospitalization
+2013	May	Wednesday	green	13-14	Release by internal transference - Hospitalization
+2013	May	Wednesday	blue	01-02	Administrative release
+2013	February	Monday	orange	09-10	Release by internal transference - Hospitalization
+2013	November	Sunday	green	23-24	Release requested by patient
+2014	September	Tuesday	blue	16-17	Release by internal transference - Hospitalization
+2013	June	Wednesday	yellow	01-02	Withdraw without being attended
+2014	April	Sunday	blue	10-11	Withdraw without being attended
+2013	February	Saturday	yellow	23-24	Release requested by patient
+2013	September	Sunday	orange	12-13	Withdraw without being attended
+2013	December	Thursday	yellow	07-08	Release by dying
+2013	March	Thursday	orange	13-14	Release by internal transference - Hospitalization
+2014	August	Wednesday	blue	20-21	Withdraw without being attended
+2013	July	Monday	orange	23-24	Administrative release
+2013	November	Wednesday	orange	13-14	Withdraw without being attended
+2014	November	Saturday	red	20-21	Release by internal transference - Hospitalization
+2013	April	Monday	red	17-18	Withdraw without being attended
+2014	June	Monday	red	14-15	Release requested by patient
+2013	May	Saturday	yellow	11-12	Release by internal transference - Hospitalization
+2013	May	Tuesday	green	09-10	Release by dying
+2013	August	Tuesday	yellow	20-21	Release by dying
+2013	April	Tuesday	red	06-07	Release by internal transference - Hospitalization
+2014	September	Saturday	green	15-16	Withdraw without being attended
+2013	April	Wednesday	yellow	10-11	Release requested by patient
+2013	April	Friday	green	12-13	Release by internal transference - Hospitalization
+2013	August	Monday	yellow	07-08	Release requested by patient
+2013	April	Saturday	red	14-15	Withdraw without being attended
+2013	May	Thursday	orange	15-16	Administrative release
+2013	August	Sunday	green	21-22	Release requested by patient
+2013	April	Wednesday	red	18-19	Release by internal transference - Hospitalization
+2013	September	Sunday	yellow	05-06	Withdraw without being attended
+2014	July	Saturday	orange	12-13	Release by dying
+2013	July	Sunday	green	02-03	Administrative release
+2014	February	Saturday	red	19-20	Release requested by patient
+2013	June	Wednesday	red	17-18	Release requested by patient
+2013	March	Monday	red	09-10	Release by dying
+2013	September	Tuesday	blue	05-06	Release requested by patient
+2014	March	Tuesday	orange	23-24	Release by internal transference - Hospitalization
+2013	July	Thursday	green	12-13	Release by internal transference - Hospitalization
+2014	July	Monday	orange	07-08	Administrative release
+2014	October	Sunday	green	16-17	Release by dying
+2013	July	Tuesday	green	01-02	Release by internal transference - Hospitalization
+2013	August	Monday	blue	00-01	Administrative release
+2013	August	Tuesday	blue	19-20	Withdraw without being attended
+2014	September	Sunday	blue	15-16	Release by dying
+2013	June	Friday	orange	21-22	Administrative release
+2013	December	Saturday	red	15-16	Release by internal transference - Hospitalization
+2013	May	Tuesday	red	19-20	Withdraw without being attended
+2014	August	Friday	yellow	23-24	Withdraw without being attended
+2013	July	Saturday	green	16-17	Release requested by patient
+2013	May	Tuesday	orange	03-04	Release requested by patient
+2013	July	Friday	yellow	14-15	Withdraw without being attended
+2013	June	Tuesday	blue	12-13	Withdraw without being attended
+2014	December	Thursday	orange	11-12	Withdraw without being attended
+2014	July	Thursday	green	19-20	Administrative release
+2013	September	Saturday	orange	04-05	Release requested by patient
+2013	August	Tuesday	orange	20-21	Release by internal transference - Hospitalization
+2013	February	Sunday	red	07-08	Release by internal transference - Hospitalization
+2014	June	Tuesday	yellow	04-05	Release requested by patient
+2013	September	Wednesday	orange	13-14	Release by dying
+2013	May	Sunday	yellow	21-22	Release requested by patient
+2013	December	Thursday	blue	18-19	Release requested by patient
+2013	February	Friday	blue	06-07	Withdraw without being attended
+2013	November	Friday	orange	14-15	Administrative release
+2013	September	Tuesday	blue	01-02	Administrative release
+2013	April	Monday	yellow	05-06	Administrative release
+2013	July	Wednesday	blue	11-12	Administrative release
+2013	December	Friday	blue	06-07	Release requested by patient
+2013	February	Wednesday	orange	20-21	Withdraw without being attended
+2013	May	Saturday	red	06-07	Administrative release
+2013	February	Saturday	orange	06-07	Release requested by patient
+2013	April	Friday	red	23-24	Withdraw without being attended
+2013	March	Tuesday	blue	17-18	Release by dying
+2013	February	Tuesday	blue	03-04	Release by internal transference - Hospitalization
+2013	April	Thursday	yellow	09-10	Release by internal transference - Hospitalization
+2013	May	Tuesday	red	06-07	Administrative release
+2013	July	Friday	yellow	20-21	Withdraw without being attended
+2014	March	Friday	red	11-12	Withdraw without being attended
+2013	October	Friday	yellow	22-23	Withdraw without being attended
+2013	January	Monday	yellow	14-15	Release requested by patient
+2013	December	Saturday	blue	14-15	Release requested by patient
+2014	January	Thursday	yellow	21-22	Withdraw without being attended
+2013	December	Monday	yellow	12-13	Withdraw without being attended
+2014	December	Sunday	green	04-05	Release requested by patient
+2013	October	Friday	orange	21-22	Release requested by patient
+2013	July	Saturday	blue	02-03	Release by dying
+2013	April	Tuesday	orange	00-01	Release by dying
+2013	January	Sunday	orange	06-07	Release by dying
+2014	March	Friday	red	03-04	Release by dying
+2013	October	Monday	blue	02-03	Withdraw without being attended
+2013	May	Tuesday	orange	04-05	Release by internal transference - Hospitalization
+2013	August	Sunday	red	09-10	Release by internal transference - Hospitalization
+2014	January	Thursday	red	22-23	Withdraw without being attended
+2013	March	Monday	yellow	17-18	Release requested by patient
+2013	May	Sunday	blue	21-22	Withdraw without being attended
+2013	March	Saturday	orange	23-24	Withdraw without being attended
+2013	March	Friday	yellow	10-11	Release by dying
+2013	November	Sunday	green	07-08	Withdraw without being attended
+2013	December	Tuesday	orange	16-17	Release by dying
+2014	June	Tuesday	red	02-03	Withdraw without being attended
+2013	October	Friday	red	02-03	Administrative release
+2013	April	Saturday	red	11-12	Administrative release
+2014	October	Wednesday	green	08-09	Release requested by patient
+2014	May	Monday	orange	00-01	Release requested by patient
+2013	July	Friday	yellow	11-12	Withdraw without being attended
+2013	October	Monday	orange	06-07	Release by dying
+2013	May	Saturday	blue	21-22	Withdraw without being attended
+2013	September	Friday	blue	14-15	Withdraw without being attended
+2013	May	Sunday	green	02-03	Release requested by patient
+2013	January	Tuesday	orange	23-24	Withdraw without being attended
+2013	April	Sunday	yellow	05-06	Withdraw without being attended
+2013	January	Thursday	yellow	20-21	Release by dying
+2014	November	Saturday	blue	06-07	Administrative release
+2013	April	Saturday	red	12-13	Release by internal transference - Hospitalization
+2013	July	Wednesday	green	22-23	Release requested by patient
+2014	June	Tuesday	orange	06-07	Release by dying
+2013	March	Wednesday	yellow	19-20	Release by dying
+2013	March	Sunday	blue	03-04	Release requested by patient
+2013	August	Sunday	yellow	19-20	Release by dying
+2013	April	Thursday	orange	13-14	Release by internal transference - Hospitalization
+2013	December	Monday	yellow	20-21	Administrative release
+2013	September	Sunday	yellow	05-06	Administrative release
+2013	December	Sunday	orange	08-09	Administrative release
+2013	April	Saturday	red	06-07	Release by dying
+2013	August	Thursday	yellow	08-09	Release requested by patient
+2013	October	Monday	red	21-22	Release by internal transference - Hospitalization
+2013	April	Tuesday	blue	19-20	Administrative release
+2013	August	Thursday	red	15-16	Withdraw without being attended
+2013	October	Wednesday	red	13-14	Release requested by patient
+2014	June	Friday	red	21-22	Release requested by patient
+2013	September	Wednesday	blue	18-19	Release by internal transference - Hospitalization
+2013	September	Sunday	yellow	12-13	Release by internal transference - Hospitalization
+2013	September	Thursday	orange	06-07	Release by dying
+2014	October	Friday	green	16-17	Release requested by patient
+2013	October	Sunday	blue	01-02	Release by internal transference - Hospitalization
+2013	July	Friday	red	02-03	Release requested by patient
+2013	December	Wednesday	green	18-19	Release requested by patient
+2014	February	Monday	orange	12-13	Release by internal transference - Hospitalization
+2013	October	Friday	orange	15-16	Withdraw without being attended
+2013	December	Saturday	red	23-24	Release requested by patient
+2013	June	Monday	yellow	13-14	Release by dying
+2013	August	Tuesday	green	02-03	Release by dying
+2013	November	Thursday	green	11-12	Withdraw without being attended
+2013	May	Monday	green	01-02	Withdraw without being attended
+2014	August	Sunday	yellow	11-12	Release by dying
+2013	December	Sunday	green	00-01	Release by dying
+2014	January	Monday	orange	04-05	Administrative release
+2013	February	Tuesday	orange	05-06	Release by dying
+2013	August	Monday	blue	20-21	Withdraw without being attended
+2013	January	Tuesday	yellow	03-04	Withdraw without being attended
+2014	July	Thursday	yellow	08-09	Release by dying
+2013	October	Sunday	orange	13-14	Release by dying
+2013	December	Sunday	yellow	23-24	Administrative release
+2013	March	Thursday	orange	15-16	Administrative release
+2013	December	Tuesday	blue	15-16	Release by internal transference - Hospitalization
+2014	October	Saturday	blue	23-24	Release by dying
+2013	January	Wednesday	yellow	00-01	Withdraw without being attended
+2013	December	Tuesday	green	09-10	Administrative release
+2013	April	Saturday	blue	05-06	Withdraw without being attended
+2013	August	Tuesday	orange	17-18	Administrative release
+2013	June	Saturday	red	20-21	Withdraw without being attended
+2013	December	Monday	yellow	15-16	Release by dying
+2013	December	Sunday	red	03-04	Release requested by patient
+2013	June	Wednesday	green	04-05	Release requested by patient
+2014	April	Monday	red	17-18	Release by internal transference - Hospitalization
+2013	January	Tuesday	yellow	00-01	Administrative release
+2013	September	Sunday	yellow	21-22	Release requested by patient
+2013	November	Sunday	green	00-01	Release by dying
+2014	December	Saturday	yellow	15-16	Release requested by patient
+2013	December	Thursday	yellow	03-04	Withdraw without being attended
+2013	September	Tuesday	yellow	08-09	Release by internal transference - Hospitalization
+2013	January	Friday	green	08-09	Withdraw without being attended
+2013	November	Wednesday	blue	10-11	Withdraw without being attended
+2013	August	Tuesday	red	09-10	Release by internal transference - Hospitalization
+2013	June	Sunday	orange	15-16	Release by dying
+2014	February	Friday	blue	20-21	Release by dying
+2013	October	Wednesday	yellow	11-12	Release by internal transference - Hospitalization
+2013	January	Monday	blue	04-05	Withdraw without being attended
+2013	January	Saturday	green	12-13	Administrative release
+2013	August	Wednesday	yellow	14-15	Administrative release
+2013	February	Wednesday	blue	15-16	Release by dying
+2014	September	Tuesday	blue	12-13	Release requested by patient
+2014	July	Saturday	yellow	23-24	Withdraw without being attended
+2013	March	Monday	blue	12-13	Administrative release
+2013	July	Friday	yellow	08-09	Release by internal transference - Hospitalization
+2013	May	Friday	green	00-01	Release by dying
+2014	April	Thursday	orange	08-09	Release requested by patient
+2013	July	Monday	orange	01-02	Withdraw without being attended
+2013	February	Friday	green	05-06	Release by dying
+2013	August	Wednesday	yellow	02-03	Release by dying
+2013	December	Sunday	yellow	05-06	Withdraw without being attended
+2013	November	Sunday	yellow	06-07	Release by dying
+2013	February	Saturday	green	20-21	Release requested by patient
+2013	March	Wednesday	yellow	07-08	Administrative release
+2014	February	Monday	green	01-02	Release by internal transference - Hospitalization
+2013	September	Wednesday	orange	09-10	Administrative release
+2013	January	Monday	green	15-16	Release requested by patient
+2013	August	Saturday	orange	19-20	Release by dying
+2014	July	Saturday	red	22-23	Administrative release
+2014	August	Saturday	green	06-07	Release by internal transference - Hospitalization
+2014	May	Thursday	blue	15-16	Administrative release
+2013	January	Friday	green	01-02	Administrative release
+2014	November	Monday	red	20-21	Release requested by patient
+2013	June	Monday	yellow	22-23	Release by dying
+2013	June	Tuesday	yellow	16-17	Release by dying
+2013	June	Wednesday	blue	12-13	Withdraw without being attended
+2013	November	Thursday	red	16-17	Release by dying
+2013	January	Saturday	orange	15-16	Administrative release
+2013	March	Wednesday	green	21-22	Withdraw without being attended
+2013	May	Tuesday	blue	23-24	Withdraw without being attended
+2013	February	Thursday	blue	17-18	Release requested by patient
+2014	July	Sunday	blue	09-10	Administrative release
+2013	December	Monday	orange	13-14	Release requested by patient
+2014	December	Friday	green	23-24	Withdraw without being attended
+2013	September	Sunday	red	06-07	Release by dying
+2013	September	Thursday	blue	07-08	Administrative release
+2013	December	Sunday	orange	13-14	Withdraw without being attended
+2013	August	Tuesday	red	07-08	Withdraw without being attended
+2014	July	Wednesday	orange	16-17	Release by dying
+2013	June	Saturday	yellow	15-16	Release by dying
+2013	February	Saturday	orange	05-06	Release by internal transference - Hospitalization
+2013	December	Friday	blue	01-02	Release by dying
+2014	July	Sunday	orange	16-17	Release requested by patient
+2013	November	Friday	red	09-10	Release requested by patient
+2013	May	Sunday	orange	02-03	Release by internal transference - Hospitalization
+2013	September	Saturday	orange	08-09	Release by dying
+2013	September	Monday	blue	10-11	Release by dying
+2013	June	Wednesday	yellow	16-17	Release by dying
+2014	June	Thursday	blue	21-22	Release by dying
+2014	August	Thursday	green	14-15	Release by internal transference - Hospitalization
+2014	January	Monday	blue	17-18	Withdraw without being attended
+2014	January	Sunday	green	14-15	Release requested by patient
+2013	September	Thursday	blue	00-01	Administrative release
+2013	April	Sunday	blue	05-06	Administrative release
+2013	July	Saturday	blue	06-07	Withdraw without being attended
+2014	March	Tuesday	orange	04-05	Withdraw without being attended
+2014	September	Sunday	orange	03-04	Withdraw without being attended
+2013	November	Sunday	blue	03-04	Release by internal transference - Hospitalization
+2013	March	Thursday	blue	23-24	Release by internal transference - Hospitalization
+2013	September	Friday	green	22-23	Release by internal transference - Hospitalization
+2013	December	Thursday	red	23-24	Release by internal transference - Hospitalization
+2013	April	Sunday	orange	00-01	Release requested by patient
+2013	August	Sunday	yellow	00-01	Release requested by patient
+2013	October	Sunday	red	05-06	Release by internal transference - Hospitalization
+2014	December	Monday	red	12-13	Administrative release
+2013	February	Monday	orange	03-04	Release by dying
+2013	April	Wednesday	blue	18-19	Release by dying
+2013	October	Wednesday	green	10-11	Withdraw without being attended
+2013	July	Sunday	yellow	05-06	Release requested by patient
+2014	August	Monday	red	15-16	Withdraw without being attended
+2014	March	Saturday	red	01-02	Withdraw without being attended
+2013	August	Friday	red	21-22	Release requested by patient
+2014	November	Sunday	orange	17-18	Administrative release
+2013	January	Thursday	red	00-01	Withdraw without being attended
+2013	February	Saturday	blue	21-22	Release requested by patient
+2014	January	Sunday	orange	19-20	Administrative release
+2013	October	Monday	blue	03-04	Release by internal transference - Hospitalization
+2014	June	Sunday	green	03-04	Release requested by patient
+2014	March	Friday	blue	07-08	Administrative release
+2013	May	Thursday	red	23-24	Release by internal transference - Hospitalization
+2013	April	Saturday	orange	21-22	Release by internal transference - Hospitalization
+2013	October	Monday	blue	18-19	Withdraw without being attended
+2013	April	Wednesday	blue	15-16	Release by dying
+2014	April	Saturday	blue	07-08	Release requested by patient
+2013	November	Wednesday	orange	05-06	Release by internal transference - Hospitalization
+2013	November	Tuesday	red	06-07	Release requested by patient
+2014	February	Friday	yellow	19-20	Release by dying
+2014	February	Friday	orange	07-08	Administrative release
+2014	December	Thursday	green	08-09	Release by internal transference - Hospitalization
+2014	June	Saturday	yellow	19-20	Release by internal transference - Hospitalization
+2013	April	Friday	blue	23-24	Administrative release
+2013	June	Monday	orange	00-01	Administrative release
+2014	May	Sunday	blue	09-10	Release by dying
+2013	June	Thursday	orange	01-02	Administrative release
+2013	July	Sunday	green	21-22	Withdraw without being attended
+2013	April	Wednesday	orange	14-15	Release requested by patient
+2013	July	Wednesday	yellow	13-14	Withdraw without being attended
+2014	August	Thursday	red	06-07	Release by dying
+2013	July	Tuesday	orange	02-03	Release by internal transference - Hospitalization
+2014	November	Tuesday	blue	10-11	Administrative release
+2013	July	Sunday	blue	21-22	Administrative release
+2014	December	Monday	green	02-03	Withdraw without being attended
+2014	March	Saturday	green	20-21	Release by internal transference - Hospitalization
+2013	April	Monday	orange	22-23	Release requested by patient
+2013	August	Sunday	green	12-13	Withdraw without being attended
+2013	March	Saturday	red	11-12	Administrative release
+2013	August	Thursday	orange	14-15	Release by internal transference - Hospitalization
+2013	December	Tuesday	orange	18-19	Administrative release
+2013	December	Saturday	orange	11-12	Release requested by patient
+2013	July	Friday	green	20-21	Release by internal transference - Hospitalization
+2013	October	Thursday	orange	08-09	Release requested by patient
+2013	August	Thursday	blue	13-14	Release by internal transference - Hospitalization
+2013	July	Friday	yellow	04-05	Release requested by patient
+2013	November	Thursday	blue	17-18	Withdraw without being attended
+2013	December	Sunday	red	20-21	Administrative release
+2014	January	Wednesday	yellow	13-14	Release by dying
+2013	May	Friday	green	19-20	Withdraw without being attended
+2013	April	Tuesday	red	21-22	Release requested by patient
+2013	December	Monday	orange	09-10	Release requested by patient
+2013	August	Tuesday	red	03-04	Release by internal transference - Hospitalization
+2013	January	Wednesday	orange	18-19	Release by internal transference - Hospitalization
+2013	January	Wednesday	green	07-08	Release by internal transference - Hospitalization
+2013	October	Tuesday	red	22-23	Withdraw without being attended
+2013	May	Monday	blue	00-01	Administrative release
+2013	January	Wednesday	yellow	09-10	Release requested by patient
+2013	February	Wednesday	green	04-05	Release requested by patient
+2013	December	Sunday	red	01-02	Release by dying
+2014	May	Monday	orange	20-21	Release by internal transference - Hospitalization
+2014	June	Monday	yellow	07-08	Administrative release
+2013	June	Sunday	blue	08-09	Release requested by patient
+2014	July	Friday	red	01-02	Release by internal transference - Hospitalization
+2013	April	Wednesday	orange	03-04	Administrative release
+2013	March	Thursday	orange	19-20	Release by dying
+2013	March	Sunday	red	09-10	Release by internal transference - Hospitalization
+2013	April	Sunday	red	00-01	Release requested by patient
+2013	September	Sunday	blue	07-08	Release by internal transference - Hospitalization
+2013	September	Tuesday	green	04-05	Withdraw without being attended
+2013	October	Friday	red	20-21	Administrative release
+2014	January	Wednesday	yellow	09-10	Release requested by patient
+2013	December	Thursday	yellow	06-07	Administrative release
+2013	August	Wednesday	orange	17-18	Withdraw without being attended
+2013	January	Monday	yellow	12-13	Release by internal transference - Hospitalization
+2013	March	Saturday	yellow	07-08	Release by dying
+2013	July	Wednesday	yellow	17-18	Administrative release
+2014	January	Wednesday	green	10-11	Withdraw without being attended
+2014	December	Monday	orange	15-16	Release by internal transference - Hospitalization
+2013	May	Wednesday	yellow	04-05	Release by internal transference - Hospitalization
+2013	June	Wednesday	red	23-24	Withdraw without being attended
+2013	July	Monday	red	09-10	Release requested by patient
+2013	June	Tuesday	green	16-17	Release by dying
+2014	April	Thursday	orange	10-11	Administrative release
+2013	September	Saturday	red	23-24	Administrative release
+2013	August	Monday	blue	13-14	Release by internal transference - Hospitalization
+2014	August	Saturday	green	20-21	Release by internal transference - Hospitalization
+2013	February	Thursday	orange	02-03	Release requested by patient
+2014	August	Saturday	green	16-17	Administrative release
+2013	November	Tuesday	red	17-18	Release by internal transference - Hospitalization
+2013	January	Sunday	green	11-12	Release by internal transference - Hospitalization
+2013	March	Wednesday	yellow	17-18	Release by internal transference - Hospitalization
+2013	July	Monday	blue	12-13	Withdraw without being attended
+2013	October	Sunday	blue	13-14	Administrative release
+2014	September	Thursday	yellow	07-08	Administrative release
+2013	July	Monday	yellow	22-23	Release requested by patient
+2013	August	Tuesday	green	13-14	Release requested by patient
+2013	May	Friday	orange	14-15	Release requested by patient
+2014	July	Saturday	orange	23-24	Release requested by patient
+2014	July	Thursday	red	21-22	Release requested by patient
+2014	January	Wednesday	orange	15-16	Withdraw without being attended
+2013	February	Thursday	blue	23-24	Administrative release
+2013	September	Monday	yellow	21-22	Withdraw without being attended
+2013	February	Tuesday	green	20-21	Administrative release
+2013	December	Friday	blue	12-13	Administrative release
+2013	June	Thursday	red	09-10	Withdraw without being attended
+2013	March	Saturday	blue	13-14	Release by internal transference - Hospitalization
+2013	September	Thursday	yellow	15-16	Release requested by patient
+2014	May	Saturday	yellow	16-17	Withdraw without being attended
+2013	August	Friday	blue	23-24	Release requested by patient
+2013	September	Monday	green	10-11	Administrative release
+2014	January	Monday	green	23-24	Withdraw without being attended
+2013	April	Saturday	orange	08-09	Withdraw without being attended
+2013	June	Sunday	blue	08-09	Withdraw without being attended
+2013	June	Tuesday	green	21-22	Administrative release
+2014	January	Sunday	orange	03-04	Release by internal transference - Hospitalization
+2013	January	Monday	red	14-15	Administrative release
+2013	November	Tuesday	blue	03-04	Administrative release
+2014	July	Tuesday	blue	10-11	Release by internal transference - Hospitalization
+2013	December	Monday	blue	03-04	Release requested by patient
+2014	September	Tuesday	yellow	15-16	Release by dying
+2013	October	Monday	orange	13-14	Withdraw without being attended
+2013	December	Friday	yellow	22-23	Release by internal transference - Hospitalization
+2013	February	Saturday	green	17-18	Withdraw without being attended
+2013	April	Friday	yellow	00-01	Administrative release
+2013	January	Tuesday	red	21-22	Release requested by patient
+2014	June	Tuesday	blue	07-08	Release by dying
+2013	June	Monday	red	08-09	Withdraw without being attended
+2013	June	Tuesday	green	16-17	Release by dying
+2013	December	Saturday	red	13-14	Administrative release
+2014	October	Saturday	green	11-12	Withdraw without being attended
+2013	November	Thursday	yellow	14-15	Release by internal transference - Hospitalization
+2014	February	Monday	green	13-14	Release by dying
+2014	December	Monday	blue	08-09	Administrative release
+2013	April	Monday	orange	19-20	Release requested by patient
+2013	April	Sunday	green	15-16	Release requested by patient
+2013	December	Sunday	orange	07-08	Release by dying
+2013	February	Wednesday	yellow	14-15	Withdraw without being attended
+2013	November	Monday	orange	01-02	Release by internal transference - Hospitalization
+2013	August	Tuesday	yellow	04-05	Release by internal transference - Hospitalization
+2013	May	Monday	orange	03-04	Release by internal transference - Hospitalization
+2013	August	Friday	blue	14-15	Release requested by patient
+2013	November	Sunday	green	01-02	Administrative release
+2013	August	Monday	orange	05-06	Withdraw without being attended
+2013	July	Monday	yellow	13-14	Withdraw without being attended
+2013	December	Tuesday	yellow	18-19	Withdraw without being attended
+2013	July	Saturday	red	09-10	Release by dying
+2013	April	Monday	green	15-16	Release by dying
+2013	November	Saturday	yellow	14-15	Release requested by patient
+2013	December	Friday	orange	15-16	Release by dying
+2013	July	Sunday	yellow	16-17	Release by internal transference - Hospitalization
+2014	October	Tuesday	orange	03-04	Administrative release
+2013	October	Tuesday	blue	10-11	Administrative release
+2013	June	Monday	orange	02-03	Release requested by patient
+2013	August	Saturday	yellow	12-13	Release requested by patient
+2013	January	Friday	green	06-07	Administrative release
+2014	September	Saturday	blue	01-02	Release by dying
+2013	September	Friday	green	10-11	Administrative release
+2013	July	Monday	red	18-19	Administrative release
+2013	October	Wednesday	blue	14-15	Release requested by patient
+2013	January	Wednesday	yellow	19-20	Withdraw without being attended
+2013	May	Monday	blue	05-06	Release by dying
+2013	June	Thursday	orange	13-14	Release by internal transference - Hospitalization
+2013	August	Saturday	yellow	19-20	Release by dying
+2013	May	Sunday	green	19-20	Withdraw without being attended
+2013	October	Thursday	green	19-20	Release requested by patient
+2013	October	Wednesday	blue	21-22	Administrative release
+2013	September	Sunday	green	09-10	Release requested by patient
+2013	December	Saturday	green	03-04	Release by dying
+2013	September	Tuesday	blue	19-20	Release by internal transference - Hospitalization
+2013	August	Thursday	red	13-14	Release by dying
+2013	December	Thursday	red	21-22	Release by dying
+2013	October	Wednesday	yellow	20-21	Administrative release
+2013	April	Saturday	green	21-22	Administrative release
+2013	November	Sunday	blue	18-19	Release by dying
+2013	December	Wednesday	blue	15-16	Release requested by patient
+2013	October	Sunday	yellow	22-23	Administrative release
+2014	June	Monday	orange	12-13	Release by dying
+2013	March	Friday	green	15-16	Release requested by patient
+2013	October	Saturday	green	07-08	Release by internal transference - Hospitalization
+2014	September	Wednesday	blue	02-03	Release by internal transference - Hospitalization
+2013	August	Saturday	red	03-04	Administrative release
+2014	September	Friday	green	19-20	Release requested by patient
+2013	April	Thursday	orange	09-10	Release requested by patient
+2014	April	Saturday	yellow	10-11	Release by internal transference - Hospitalization
+2013	June	Monday	yellow	15-16	Release requested by patient
+2014	August	Friday	orange	18-19	Release by dying
+2014	October	Friday	red	21-22	Administrative release
+2013	September	Thursday	blue	07-08	Release by internal transference - Hospitalization
+2013	December	Thursday	orange	09-10	Withdraw without being attended
+2013	July	Thursday	blue	03-04	Release by internal transference - Hospitalization
+2013	November	Thursday	green	22-23	Administrative release
+2013	June	Tuesday	red	15-16	Withdraw without being attended
+2014	November	Sunday	orange	07-08	Release requested by patient
+2013	September	Monday	yellow	18-19	Release by dying
+2014	April	Sunday	green	18-19	Administrative release
+2013	September	Saturday	yellow	07-08	Withdraw without being attended
+2014	May	Saturday	blue	20-21	Withdraw without being attended
+2013	October	Tuesday	red	15-16	Administrative release
+2013	May	Tuesday	yellow	15-16	Release by dying
+2013	February	Wednesday	orange	00-01	Release requested by patient
+2014	July	Wednesday	blue	04-05	Administrative release
+2013	May	Thursday	blue	01-02	Release by internal transference - Hospitalization
+2013	August	Wednesday	blue	23-24	Release by dying
+2013	February	Monday	blue	06-07	Release requested by patient
+2013	August	Wednesday	orange	01-02	Release by internal transference - Hospitalization
+2014	October	Monday	red	10-11	Withdraw without being attended
+2013	June	Monday	green	03-04	Release by internal transference - Hospitalization
+2013	April	Wednesday	green	23-24	Administrative release
+2013	May	Thursday	yellow	14-15	Administrative release
+2013	October	Saturday	red	18-19	Administrative release
+2014	May	Saturday	green	04-05	Withdraw without being attended
+2013	February	Wednesday	red	12-13	Release by internal transference - Hospitalization
+2013	September	Friday	green	11-12	Release by internal transference - Hospitalization
+2013	September	Thursday	red	11-12	Release by dying
+2013	October	Thursday	red	14-15	Release requested by patient
+2013	November	Saturday	red	00-01	Release by dying
+2013	March	Monday	yellow	11-12	Release by dying
+2013	May	Friday	green	07-08	Release requested by patient
+2013	October	Tuesday	orange	03-04	Administrative release
+2013	November	Thursday	blue	05-06	Release by internal transference - Hospitalization
+2014	October	Monday	red	11-12	Release requested by patient
+2013	December	Sunday	red	13-14	Release requested by patient
+2014	May	Monday	red	18-19	Withdraw without being attended
+2013	February	Sunday	orange	17-18	Withdraw without being attended
+2013	May	Sunday	green	18-19	Release by dying
+2013	November	Tuesday	yellow	20-21	Release by dying
+2013	January	Saturday	blue	07-08	Administrative release
+2013	December	Tuesday	red	15-16	Release by dying
+2013	March	Thursday	blue	13-14	Release by internal transference - Hospitalization
+2014	November	Monday	red	10-11	Release requested by patient
+2013	August	Sunday	yellow	02-03	Release requested by patient
+2013	February	Wednesday	blue	18-19	Withdraw without being attended
+2013	June	Sunday	blue	23-24	Release requested by patient
+2014	March	Saturday	orange	05-06	Release requested by patient
+2013	February	Sunday	red	07-08	Release by internal transference - Hospitalization
+2013	November	Wednesday	green	11-12	Withdraw without being attended
+2013	July	Wednesday	orange	03-04	Withdraw without being attended
+2013	October	Saturday	orange	03-04	Administrative release
+2013	June	Saturday	yellow	15-16	Withdraw without being attended
+2013	June	Saturday	red	13-14	Administrative release
+2013	November	Thursday	blue	01-02	Release by internal transference - Hospitalization
+2013	July	Friday	blue	13-14	Release by dying
+2013	June	Thursday	yellow	06-07	Release by dying
+2014	August	Sunday	green	01-02	Withdraw without being attended
+2013	August	Tuesday	green	12-13	Release by internal transference - Hospitalization
+2014	December	Monday	blue	13-14	Release by internal transference - Hospitalization
+2013	December	Monday	green	03-04	Release by dying
+2013	July	Wednesday	blue	03-04	Release by dying
+2013	December	Thursday	red	08-09	Release by internal transference - Hospitalization
+2014	July	Thursday	orange	03-04	Release requested by patient
+2014	January	Thursday	green	21-22	Release requested by patient
+2013	January	Wednesday	blue	18-19	Release by internal transference - Hospitalization
+2014	March	Sunday	orange	16-17	Withdraw without being attended
+2013	July	Friday	green	03-04	Withdraw without being attended
+2013	March	Saturday	blue	19-20	Administrative release
+2014	August	Sunday	green	12-13	Release by dying
+2013	March	Saturday	blue	20-21	Release by internal transference - Hospitalization
+2014	February	Tuesday	orange	23-24	Release by dying
+2013	October	Wednesday	orange	05-06	Administrative release
+2013	May	Monday	green	19-20	Release by dying
+2014	October	Monday	blue	22-23	Administrative release
+2013	February	Monday	red	21-22	Administrative release
+2013	March	Sunday	red	19-20	Administrative release
+2013	June	Saturday	green	08-09	Release by dying
+2013	January	Wednesday	green	15-16	Administrative release
+2014	February	Wednesday	green	05-06	Release requested by patient
+2014	April	Thursday	green	17-18	Release by dying
+2013	June	Sunday	blue	19-20	Release requested by patient
+2013	December	Tuesday	blue	09-10	Release by dying
+2013	January	Wednesday	orange	03-04	Release requested by patient
+2013	October	Saturday	red	14-15	Withdraw without being attended
+2013	May	Friday	red	02-03	Release by dying
+2013	November	Monday	blue	21-22	Release by internal transference - Hospitalization
+2013	April	Tuesday	blue	20-21	Administrative release
+2014	July	Wednesday	orange	06-07	Release by dying
+2014	June	Thursday	yellow	08-09	Release by internal transference - Hospitalization
+2013	February	Saturday	green	23-24	Release by internal transference - Hospitalization
+2013	May	Sunday	green	07-08	Withdraw without being attended
+2014	September	Tuesday	red	04-05	Withdraw without being attended
+2013	September	Tuesday	red	13-14	Release by dying
+2013	October	Wednesday	yellow	12-13	Release by dying
+2013	March	Sunday	blue	13-14	Withdraw without being attended
+2014	October	Friday	blue	08-09	Release by internal transference - Hospitalization
+2013	June	Tuesday	blue	15-16	Administrative release
+2014	July	Sunday	blue	17-18	Withdraw without being attended
+2013	July	Sunday	red	07-08	Release by dying
+2013	March	Wednesday	yellow	16-17	Release requested by patient
+2013	March	Sunday	blue	09-10	Release by internal transference - Hospitalization
+2013	June	Tuesday	blue	23-24	Release requested by patient
+2013	July	Sunday	green	09-10	Release requested by patient
+2013	April	Wednesday	orange	05-06	Administrative release
+2013	September	Tuesday	red	00-01	Administrative release
+2014	October	Wednesday	orange	06-07	Release by dying
+2013	December	Wednesday	red	08-09	Release by internal transference - Hospitalization
+2013	February	Saturday	green	13-14	Release by dying
+2013	January	Monday	green	07-08	Withdraw without being attended
+2013	June	Tuesday	yellow	20-21	Release by internal transference - Hospitalization
+2013	January	Friday	orange	18-19	Withdraw without being attended
+2013	June	Saturday	red	16-17	Release by dying
+2013	October	Tuesday	yellow	15-16	Release by internal transference - Hospitalization
+2013	September	Thursday	red	10-11	Withdraw without being attended
+2013	April	Tuesday	red	18-19	Administrative release
+2013	September	Friday	yellow	16-17	Release by internal transference - Hospitalization
+2014	May	Monday	yellow	16-17	Release by dying
+2013	May	Wednesday	blue	04-05	Release by dying
+2014	April	Thursday	red	19-20	Release requested by patient
+2014	July	Monday	orange	11-12	Release requested by patient
+2013	February	Sunday	blue	12-13	Release by dying
+2013	July	Saturday	red	21-22	Administrative release
+2013	December	Sunday	orange	01-02	Release by internal transference - Hospitalization
+2014	November	Sunday	orange	00-01	Release by internal transference - Hospitalization
+2013	November	Friday	green	04-05	Administrative release
+2013	September	Saturday	green	09-10	Release requested by patient
+2014	October	Friday	yellow	18-19	Withdraw without being attended
+2014	October	Friday	blue	08-09	Withdraw without being attended
+2013	June	Thursday	yellow	07-08	Release requested by patient
+2013	January	Thursday	red	12-13	Release requested by patient
+2013	January	Wednesday	yellow	11-12	Withdraw without being attended
+2014	January	Saturday	green	04-05	Release by dying
+2013	July	Monday	blue	10-11	Release by dying
+2013	January	Wednesday	green	18-19	Release requested by patient
+2014	November	Friday	orange	17-18	Withdraw without being attended
+2013	June	Friday	green	14-15	Release requested by patient
+2013	May	Friday	orange	20-21	Release by internal transference - Hospitalization
+2014	April	Monday	yellow	17-18	Release by dying
+2013	December	Thursday	green	14-15	Release requested by patient
+2013	February	Monday	green	17-18	Administrative release
+2014	November	Monday	green	18-19	Release by dying
+2013	August	Saturday	red	23-24	Withdraw without being attended
+2013	May	Wednesday	blue	01-02	Administrative release
+2013	March	Thursday	red	22-23	Release by dying
+2013	July	Thursday	red	06-07	Withdraw without being attended
+2014	November	Friday	yellow	18-19	Withdraw without being attended
+2013	October	Tuesday	green	11-12	Release by dying
+2014	May	Thursday	orange	15-16	Release by dying
+2013	December	Tuesday	green	09-10	Release requested by patient
+2013	March	Thursday	yellow	22-23	Withdraw without being attended
+2013	December	Tuesday	yellow	07-08	Administrative release
+2013	October	Saturday	orange	23-24	Release by dying
+2014	November	Tuesday	red	23-24	Administrative release
+2013	February	Thursday	red	17-18	Release by dying
+2013	September	Tuesday	red	22-23	Withdraw without being attended
+2014	February	Sunday	orange	08-09	Withdraw without being attended
+2013	April	Tuesday	orange	10-11	Release requested by patient
+2014	October	Monday	green	09-10	Administrative release
+2014	October	Friday	blue	11-12	Release requested by patient
+2013	December	Thursday	blue	14-15	Administrative release
+2013	August	Thursday	orange	14-15	Release by internal transference - Hospitalization
+2013	August	Saturday	yellow	17-18	Release by dying
+2013	March	Thursday	green	21-22	Withdraw without being attended
+2013	June	Thursday	orange	05-06	Release by dying
+2013	August	Tuesday	yellow	23-24	Release by internal transference - Hospitalization
+2014	April	Friday	green	07-08	Administrative release
+2013	June	Thursday	blue	16-17	Administrative release
+2014	May	Thursday	yellow	20-21	Release by internal transference - Hospitalization
+2013	May	Sunday	orange	10-11	Withdraw without being attended
+2013	August	Saturday	green	13-14	Withdraw without being attended
+2014	July	Wednesday	yellow	00-01	Release by dying
+2013	March	Saturday	orange	21-22	Release by internal transference - Hospitalization
+2014	May	Tuesday	green	18-19	Administrative release
+2013	April	Friday	blue	12-13	Withdraw without being attended
+2013	November	Thursday	green	06-07	Administrative release
+2013	December	Monday	orange	05-06	Release by dying
+2013	September	Wednesday	green	05-06	Withdraw without being attended
+2013	October	Saturday	yellow	22-23	Administrative release
+2013	April	Thursday	orange	19-20	Withdraw without being attended
+2013	January	Tuesday	green	09-10	Withdraw without being attended
+2013	July	Thursday	yellow	02-03	Release requested by patient
+2013	March	Saturday	red	20-21	Withdraw without being attended
+2013	December	Sunday	yellow	09-10	Administrative release
+2013	April	Tuesday	yellow	04-05	Release by dying
+2013	January	Monday	orange	12-13	Administrative release
+2013	August	Thursday	blue	10-11	Withdraw without being attended
+2013	June	Wednesday	yellow	07-08	Administrative release
+2013	August	Friday	blue	18-19	Release by dying
+2013	June	Friday	blue	09-10	Release by dying
+2013	June	Monday	orange	12-13	Release by internal transference - Hospitalization
+2013	December	Sunday	red	09-10	Administrative release
+2013	January	Thursday	yellow	05-06	Release requested by patient
+2013	October	Tuesday	red	13-14	Administrative release
+2013	May	Monday	green	02-03	Release by dying
+2013	November	Sunday	yellow	16-17	Release requested by patient
+2013	June	Saturday	orange	18-19	Release requested by patient
+2013	February	Sunday	red	11-12	Withdraw without being attended
+2014	May	Sunday	orange	05-06	Release requested by patient
+2013	January	Friday	green	14-15	Release by internal transference - Hospitalization
+2013	March	Tuesday	blue	15-16	Release by dying
+2013	February	Thursday	yellow	00-01	Administrative release
+2014	January	Tuesday	orange	07-08	Release requested by patient
+2013	November	Saturday	red	21-22	Release by internal transference - Hospitalization
+2013	November	Tuesday	red	03-04	Release requested by patient
+2013	January	Monday	green	20-21	Release requested by patient
+2013	August	Saturday	blue	05-06	Withdraw without being attended
+2013	May	Thursday	red	12-13	Release requested by patient
+2013	September	Friday	yellow	15-16	Release by dying
+2013	August	Wednesday	red	04-05	Withdraw without being attended
+2013	August	Tuesday	red	16-17	Withdraw without being attended
+2014	September	Tuesday	green	18-19	Administrative release
+2013	September	Sunday	red	14-15	Withdraw without being attended
+2013	December	Thursday	green	23-24	Withdraw without being attended
+2014	April	Friday	blue	13-14	Release requested by patient
+2013	December	Sunday	orange	18-19	Withdraw without being attended
+2013	May	Thursday	yellow	14-15	Release by internal transference - Hospitalization
+2013	April	Thursday	blue	03-04	Release by internal transference - Hospitalization
+2013	July	Tuesday	blue	09-10	Administrative release
+2013	August	Monday	blue	12-13	Administrative release
+2013	March	Wednesday	yellow	21-22	Administrative release
+2013	December	Saturday	orange	21-22	Withdraw without being attended
+2013	May	Monday	red	11-12	Release by dying
+2013	January	Saturday	red	10-11	Administrative release
+2013	July	Saturday	red	07-08	Withdraw without being attended
+2013	October	Thursday	yellow	14-15	Administrative release
+2013	May	Tuesday	green	14-15	Administrative release
+2014	July	Sunday	yellow	08-09	Release by dying
+2013	August	Thursday	green	23-24	Withdraw without being attended
+2014	September	Monday	blue	12-13	Withdraw without being attended
+2013	March	Sunday	orange	10-11	Release by internal transference - Hospitalization
+2013	October	Wednesday	orange	20-21	Release by internal transference - Hospitalization
+2013	May	Wednesday	yellow	19-20	Administrative release
+2013	June	Friday	yellow	12-13	Withdraw without being attended
+2013	February	Sunday	yellow	14-15	Withdraw without being attended
+2013	August	Thursday	red	01-02	Administrative release
+2013	August	Friday	blue	14-15	Release requested by patient
+2013	April	Wednesday	red	09-10	Release requested by patient
+2013	October	Friday	yellow	06-07	Release by dying
+2013	April	Wednesday	orange	06-07	Withdraw without being attended
+2013	April	Saturday	red	17-18	Release by dying
+2013	March	Sunday	yellow	01-02	Withdraw without being attended
+2013	June	Tuesday	yellow	09-10	Withdraw without being attended
+2013	December	Wednesday	red	10-11	Release by dying
+2013	June	Thursday	blue	18-19	Release by dying
+2013	November	Wednesday	orange	18-19	Release by internal transference - Hospitalization
+2013	August	Thursday	red	19-20	Release requested by patient
+2013	July	Tuesday	orange	00-01	Release requested by patient
+2014	April	Thursday	orange	01-02	Administrative release
+2013	December	Sunday	green	02-03	Withdraw without being attended
+2013	August	Monday	blue	20-21	Administrative release
+2013	June	Thursday	red	13-14	Release by dying
+2013	September	Saturday	green	01-02	Release requested by patient
+2013	June	Wednesday	red	20-21	Administrative release
+2013	July	Thursday	orange	09-10	Release by dying
+2013	May	Friday	red	10-11	Administrative release
+2013	April	Sunday	yellow	14-15	Release by internal transference - Hospitalization
+2013	October	Monday	red	18-19	Release by dying
+2014	May	Tuesday	yellow	15-16	Withdraw without being attended
+2013	November	Friday	orange	16-17	Release by internal transference - Hospitalization
+2013	July	Thursday	blue	06-07	Administrative release
+2014	March	Friday	green	01-02	Release by dying
+2013	September	Tuesday	orange	12-13	Administrative release
+2013	January	Thursday	yellow	07-08	Withdraw without being attended
+2013	November	Wednesday	green	03-04	Release by internal transference - Hospitalization
+2013	March	Wednesday	blue	04-05	Release requested by patient
+2013	September	Tuesday	green	03-04	Release requested by patient
+2013	October	Sunday	yellow	18-19	Release by dying
+2014	October	Tuesday	red	20-21	Release requested by patient
+2013	November	Thursday	blue	16-17	Release by dying
+2013	March	Thursday	green	21-22	Release by internal transference - Hospitalization
+2014	May	Friday	green	03-04	Administrative release
+2013	November	Sunday	red	23-24	Release requested by patient
+2013	August	Thursday	blue	17-18	Release by dying
+2013	February	Friday	yellow	17-18	Withdraw without being attended
+2014	August	Monday	green	20-21	Administrative release
+2013	July	Thursday	yellow	04-05	Administrative release
+2013	December	Tuesday	yellow	13-14	Administrative release
+2013	September	Tuesday	green	11-12	Administrative release
+2013	February	Sunday	blue	07-08	Release by internal transference - Hospitalization
+2013	January	Tuesday	green	21-22	Release by dying
+2013	October	Tuesday	red	00-01	Release by internal transference - Hospitalization
+2013	May	Thursday	orange	20-21	Withdraw without being attended
+2013	July	Sunday	green	09-10	Release requested by patient
+2013	May	Thursday	red	11-12	Release requested by patient
+2013	February	Wednesday	green	21-22	Release by internal transference - Hospitalization
+2013	March	Monday	red	10-11	Release by internal transference - Hospitalization
+2013	September	Tuesday	blue	16-17	Release requested by patient
+2013	September	Thursday	green	17-18	Withdraw without being attended
+2013	October	Thursday	green	15-16	Release by dying
+2013	February	Wednesday	orange	10-11	Administrative release
+2013	June	Saturday	yellow	02-03	Release by dying
+2013	November	Wednesday	yellow	17-18	Release by dying
+2014	April	Saturday	green	17-18	Administrative release
+2013	December	Monday	green	00-01	Release requested by patient
+2014	July	Wednesday	green	17-18	Withdraw without being attended
+2013	March	Friday	green	04-05	Release requested by patient
+2014	June	Friday	yellow	08-09	Release requested by patient
+2013	September	Wednesday	red	11-12	Release requested by patient
+2013	February	Saturday	blue	21-22	Withdraw without being attended
+2013	March	Sunday	red	04-05	Administrative release
+2013	January	Tuesday	red	00-01	Administrative release
+2013	March	Saturday	orange	07-08	Administrative release
+2013	August	Saturday	orange	00-01	Release by dying
+2013	June	Thursday	yellow	22-23	Administrative release
+2013	May	Sunday	orange	13-14	Release by dying
+2013	July	Sunday	yellow	12-13	Release by dying
+2013	June	Friday	red	09-10	Release by dying
+2013	October	Thursday	red	12-13	Release requested by patient
+2013	November	Monday	yellow	05-06	Administrative release
+2013	March	Saturday	yellow	23-24	Release by internal transference - Hospitalization
+2013	June	Saturday	red	20-21	Withdraw without being attended
+2013	July	Thursday	yellow	20-21	Administrative release
+2013	June	Tuesday	yellow	08-09	Release by dying
+2013	January	Saturday	red	08-09	Administrative release
+2013	May	Sunday	green	07-08	Release by internal transference - Hospitalization
+2013	December	Sunday	red	03-04	Release by dying
+2014	August	Thursday	orange	20-21	Release requested by patient
+2014	April	Tuesday	blue	09-10	Administrative release
+2013	August	Wednesday	green	14-15	Administrative release
+2013	September	Saturday	green	07-08	Release by dying
+2013	August	Sunday	green	03-04	Release by internal transference - Hospitalization
+2013	August	Wednesday	blue	02-03	Administrative release
+2013	February	Monday	yellow	00-01	Release by dying
+2013	December	Wednesday	orange	10-11	Withdraw without being attended
+2013	March	Tuesday	blue	21-22	Release by internal transference - Hospitalization
+2013	August	Sunday	green	12-13	Release requested by patient
+2013	March	Friday	green	21-22	Release by internal transference - Hospitalization
+2013	May	Monday	orange	21-22	Administrative release
+2013	May	Thursday	yellow	11-12	Release requested by patient
+2013	February	Thursday	orange	08-09	Administrative release
+2013	January	Thursday	green	23-24	Release requested by patient
+2013	December	Thursday	yellow	23-24	Release by dying
+2013	February	Saturday	orange	01-02	Withdraw without being attended
+2013	December	Monday	red	21-22	Release by internal transference - Hospitalization
+2013	February	Saturday	green	02-03	Release by internal transference - Hospitalization
+2013	February	Monday	green	00-01	Withdraw without being attended
+2013	August	Friday	red	04-05	Release by internal transference - Hospitalization
+2013	February	Thursday	orange	04-05	Release requested by patient
+2013	December	Sunday	orange	19-20	Release requested by patient
+2013	February	Friday	orange	02-03	Administrative release
+2013	September	Sunday	orange	19-20	Administrative release
+2013	March	Wednesday	orange	03-04	Release requested by patient
+2013	January	Monday	green	22-23	Release by internal transference - Hospitalization
+2013	September	Monday	orange	16-17	Administrative release
+2013	August	Monday	green	07-08	Release by internal transference - Hospitalization
+2013	August	Sunday	red	20-21	Administrative release
+2014	October	Monday	green	01-02	Release by internal transference - Hospitalization
+2013	January	Sunday	yellow	08-09	Release by dying
+2013	March	Thursday	red	10-11	Release by dying
+2014	January	Friday	blue	00-01	Release requested by patient
+2013	December	Saturday	red	18-19	Release requested by patient
+2013	March	Sunday	yellow	12-13	Release requested by patient
+2014	November	Tuesday	orange	03-04	Withdraw without being attended
+2013	April	Monday	green	19-20	Release by dying
+2013	August	Monday	orange	01-02	Release by internal transference - Hospitalization
+2013	August	Saturday	green	06-07	Administrative release
+2013	February	Monday	orange	15-16	Release by internal transference - Hospitalization
+2013	August	Monday	red	04-05	Release by internal transference - Hospitalization
+2013	February	Thursday	orange	01-02	Administrative release
+2013	June	Saturday	green	08-09	Release by internal transference - Hospitalization
+2013	October	Sunday	red	09-10	Administrative release
+2013	August	Monday	blue	13-14	Withdraw without being attended
+2013	January	Friday	yellow	22-23	Release by internal transference - Hospitalization
+2013	June	Thursday	yellow	01-02	Administrative release
+2013	December	Wednesday	red	21-22	Release by dying
+2013	May	Wednesday	blue	09-10	Release by dying
+2013	September	Friday	yellow	00-01	Withdraw without being attended
+2013	June	Thursday	red	15-16	Withdraw without being attended
+2013	January	Sunday	green	18-19	Release requested by patient
+2014	November	Saturday	orange	04-05	Release by internal transference - Hospitalization
+2014	March	Tuesday	yellow	07-08	Release by dying
+2013	February	Wednesday	orange	22-23	Release requested by patient
+2013	September	Friday	red	19-20	Release by internal transference - Hospitalization
+2014	June	Wednesday	red	23-24	Release by dying
+2014	August	Tuesday	yellow	11-12	Release by dying
+2014	January	Friday	green	00-01	Release by internal transference - Hospitalization
+2013	September	Monday	orange	18-19	Withdraw without being attended
+2013	January	Thursday	blue	05-06	Release by internal transference - Hospitalization
+2013	September	Wednesday	blue	18-19	Release by internal transference - Hospitalization
+2013	July	Thursday	red	15-16	Administrative release
+2013	May	Thursday	red	01-02	Release by dying
+2013	December	Friday	green	01-02	Withdraw without being attended
+2013	January	Thursday	red	11-12	Withdraw without being attended
+2013	October	Saturday	blue	12-13	Release by internal transference - Hospitalization
+2013	December	Tuesday	green	22-23	Release requested by patient
+2014	April	Sunday	orange	21-22	Administrative release
+2014	June	Friday	orange	04-05	Withdraw without being attended
+2013	January	Friday	red	10-11	Administrative release
+2013	July	Thursday	red	05-06	Withdraw without being attended
+2013	July	Monday	red	23-24	Release requested by patient
+2013	February	Thursday	yellow	01-02	Release by internal transference - Hospitalization
+2014	February	Friday	red	19-20	Release requested by patient
+2013	September	Monday	blue	05-06	Release by dying
+2013	November	Thursday	blue	06-07	Release by internal transference - Hospitalization
+2014	March	Monday	orange	23-24	Release by internal transference - Hospitalization
+2014	January	Sunday	yellow	04-05	Withdraw without being attended
+2014	September	Friday	blue	02-03	Withdraw without being attended
+2013	May	Sunday	blue	05-06	Release requested by patient
+2013	January	Tuesday	red	16-17	Release by dying
+2014	April	Friday	red	16-17	Release requested by patient
+2013	September	Monday	blue	11-12	Withdraw without being attended
+2014	August	Sunday	orange	01-02	Release by internal transference - Hospitalization
+2013	August	Tuesday	yellow	15-16	Release by internal transference - Hospitalization
+2013	February	Tuesday	blue	21-22	Release requested by patient
+2013	November	Thursday	green	23-24	Release by internal transference - Hospitalization
+2013	July	Friday	green	00-01	Release by internal transference - Hospitalization
+2013	January	Saturday	green	09-10	Release by dying
+2013	October	Tuesday	blue	12-13	Release requested by patient
+2013	March	Friday	yellow	02-03	Administrative release
+2014	June	Monday	green	05-06	Administrative release
+2013	September	Wednesday	blue	20-21	Release requested by patient
+2013	September	Monday	green	04-05	Release by internal transference - Hospitalization
+2014	August	Wednesday	yellow	01-02	Administrative release
+2013	January	Friday	yellow	14-15	Release requested by patient
+2013	August	Tuesday	red	11-12	Release requested by patient
+2013	April	Friday	green	02-03	Administrative release
+2014	July	Friday	orange	20-21	Release by dying
+2013	November	Friday	yellow	17-18	Withdraw without being attended
+2013	November	Friday	blue	13-14	Administrative release
+2013	April	Thursday	red	02-03	Release by dying
+2014	April	Wednesday	yellow	13-14	Withdraw without being attended
+2013	May	Tuesday	yellow	10-11	Withdraw without being attended
+2014	December	Wednesday	blue	01-02	Release requested by patient
+2013	September	Saturday	yellow	08-09	Release requested by patient
+2013	October	Thursday	blue	20-21	Release by internal transference - Hospitalization
+2013	June	Tuesday	green	05-06	Release by dying
+2013	November	Sunday	orange	17-18	Release by internal transference - Hospitalization
+2013	July	Saturday	green	12-13	Withdraw without being attended
+2013	June	Thursday	red	10-11	Administrative release
+2013	April	Friday	green	13-14	Release by dying
+2013	September	Thursday	orange	11-12	Administrative release
+2013	June	Saturday	blue	04-05	Release by dying
+2013	September	Sunday	yellow	11-12	Release by dying
+2013	August	Tuesday	red	14-15	Release requested by patient
+2013	August	Wednesday	orange	11-12	Release requested by patient
+2013	March	Monday	orange	22-23	Administrative release
+2013	June	Tuesday	blue	04-05	Withdraw without being attended
+2013	January	Friday	orange	18-19	Release requested by patient
+2014	June	Tuesday	yellow	04-05	Release by internal transference - Hospitalization
+2013	April	Tuesday	blue	16-17	Release requested by patient
+2013	March	Saturday	blue	19-20	Administrative release
+2013	June	Thursday	yellow	23-24	Release requested by patient
+2013	June	Saturday	orange	03-04	Release by internal transference - Hospitalization
+2013	July	Friday	orange	17-18	Release requested by patient
+2014	February	Tuesday	blue	14-15	Withdraw without being attended
+2013	July	Sunday	green	02-03	Administrative release
+2013	July	Thursday	yellow	04-05	Release by dying
+2014	December	Friday	red	21-22	Withdraw without being attended
+2014	October	Saturday	orange	21-22	Administrative release
+2013	May	Friday	yellow	08-09	Release requested by patient
+2013	March	Thursday	red	06-07	Release requested by patient
+2013	March	Saturday	yellow	12-13	Withdraw without being attended
+2013	November	Thursday	orange	12-13	Administrative release
+2013	July	Wednesday	green	19-20	Release by internal transference - Hospitalization
+2013	October	Friday	yellow	06-07	Withdraw without being attended
+2013	January	Monday	blue	18-19	Release by internal transference - Hospitalization
+2013	April	Monday	blue	07-08	Release requested by patient
+2013	September	Saturday	blue	16-17	Withdraw without being attended
+2013	December	Saturday	red	17-18	Administrative release
+2013	April	Wednesday	green	17-18	Release by internal transference - Hospitalization
+2013	May	Sunday	orange	12-13	Administrative release
+2013	January	Sunday	green	13-14	Administrative release
+2013	February	Sunday	red	05-06	Administrative release
+2013	May	Wednesday	blue	13-14	Release by internal transference - Hospitalization
+2013	September	Sunday	green	01-02	Administrative release
+2013	January	Monday	blue	07-08	Withdraw without being attended
+2013	February	Wednesday	blue	07-08	Administrative release
+2013	May	Tuesday	orange	12-13	Release requested by patient
+2013	November	Friday	orange	06-07	Release by dying
+2013	January	Thursday	green	12-13	Release by internal transference - Hospitalization
+2013	April	Friday	blue	16-17	Administrative release
+2013	June	Friday	blue	12-13	Administrative release
+2014	February	Tuesday	orange	17-18	Release by internal transference - Hospitalization
+2013	August	Tuesday	orange	00-01	Release requested by patient
+2013	May	Saturday	red	07-08	Release by dying
+2013	August	Saturday	yellow	02-03	Administrative release
+2013	July	Wednesday	orange	09-10	Release requested by patient
+2013	October	Wednesday	red	18-19	Withdraw without being attended
+2013	March	Sunday	green	03-04	Withdraw without being attended
+2013	January	Thursday	orange	01-02	Release by dying
+2013	March	Sunday	orange	01-02	Release requested by patient
+2013	October	Tuesday	orange	09-10	Administrative release
+2013	January	Saturday	yellow	21-22	Withdraw without being attended
+2014	December	Thursday	green	00-01	Release requested by patient
+2013	March	Sunday	green	19-20	Administrative release
+2013	January	Thursday	yellow	18-19	Administrative release
+2013	September	Wednesday	green	14-15	Release by dying
+2014	June	Monday	green	10-11	Release requested by patient
+2013	June	Monday	orange	09-10	Withdraw without being attended
+2013	June	Friday	blue	19-20	Withdraw without being attended
+2014	December	Monday	red	08-09	Release requested by patient
+2013	November	Wednesday	blue	23-24	Administrative release
+2013	July	Wednesday	red	09-10	Release by internal transference - Hospitalization
+2014	May	Sunday	yellow	14-15	Release by dying
+2013	May	Wednesday	blue	18-19	Administrative release
+2013	March	Sunday	blue	10-11	Withdraw without being attended
+2013	September	Thursday	red	16-17	Release by internal transference - Hospitalization
+2013	May	Saturday	blue	10-11	Administrative release
+2013	February	Saturday	red	12-13	Release requested by patient
+2014	April	Friday	red	16-17	Release by internal transference - Hospitalization
+2014	December	Wednesday	yellow	21-22	Withdraw without being attended
+2013	March	Wednesday	red	02-03	Administrative release
+2013	May	Monday	blue	11-12	Release by internal transference - Hospitalization
+2013	June	Tuesday	yellow	01-02	Release requested by patient
+2014	August	Saturday	orange	23-24	Release requested by patient
+2013	March	Thursday	red	11-12	Release requested by patient
+2013	November	Friday	yellow	20-21	Administrative release
+2013	November	Friday	red	20-21	Administrative release
+2014	April	Wednesday	yellow	05-06	Release by internal transference - Hospitalization
+2013	December	Monday	red	14-15	Release by dying
+2013	August	Tuesday	blue	20-21	Release by dying
+2013	April	Sunday	green	03-04	Release by internal transference - Hospitalization
+2013	July	Thursday	red	03-04	Administrative release
+2013	December	Thursday	green	03-04	Withdraw without being attended
+2014	March	Saturday	red	00-01	Release requested by patient
+2013	October	Sunday	blue	00-01	Administrative release
+2013	March	Saturday	orange	15-16	Release by internal transference - Hospitalization
+2013	March	Saturday	orange	02-03	Release requested by patient
+2013	April	Friday	orange	04-05	Release by internal transference - Hospitalization
+2013	October	Thursday	orange	02-03	Withdraw without being attended
+2013	October	Friday	green	04-05	Withdraw without being attended
+2014	August	Saturday	red	22-23	Release requested by patient
+2014	October	Thursday	orange	01-02	Release by dying
+2013	September	Wednesday	green	21-22	Release by internal transference - Hospitalization
+2013	November	Tuesday	green	18-19	Withdraw without being attended
+2013	August	Thursday	red	12-13	Administrative release
+2013	February	Monday	red	18-19	Release by internal transference - Hospitalization
+2014	December	Wednesday	orange	15-16	Withdraw without being attended
+2014	June	Saturday	blue	06-07	Administrative release
+2013	February	Friday	orange	08-09	Administrative release
+2014	August	Monday	yellow	05-06	Release by dying
+2013	February	Wednesday	orange	07-08	Administrative release
+2013	August	Friday	orange	00-01	Administrative release
+2014	June	Wednesday	green	12-13	Release by dying
+2014	May	Sunday	green	12-13	Administrative release
+2013	February	Wednesday	blue	06-07	Release by internal transference - Hospitalization
+2013	April	Friday	yellow	16-17	Administrative release
+2013	March	Sunday	orange	13-14	Release by dying
+2013	August	Tuesday	red	01-02	Administrative release
+2013	May	Thursday	blue	13-14	Release by dying
+2013	June	Monday	yellow	10-11	Administrative release
+2013	October	Monday	orange	17-18	Release by internal transference - Hospitalization
+2014	July	Tuesday	orange	23-24	Release by dying
+2013	August	Sunday	red	19-20	Withdraw without being attended
+2014	April	Friday	orange	05-06	Release requested by patient
+2013	April	Friday	blue	13-14	Administrative release
+2013	April	Monday	orange	09-10	Release by internal transference - Hospitalization
+2013	October	Friday	red	02-03	Release requested by patient
+2013	May	Wednesday	blue	02-03	Release by dying
+2013	March	Monday	red	19-20	Release by dying
+2013	March	Tuesday	yellow	06-07	Administrative release
+2013	August	Monday	orange	00-01	Release requested by patient
+2013	June	Saturday	red	20-21	Withdraw without being attended
+2013	June	Tuesday	blue	23-24	Release by dying
+2013	July	Monday	green	13-14	Release by internal transference - Hospitalization
+2014	September	Monday	orange	07-08	Release by internal transference - Hospitalization
+2013	July	Saturday	yellow	05-06	Administrative release
+2013	October	Sunday	blue	15-16	Release requested by patient
+2013	May	Tuesday	green	22-23	Withdraw without being attended
+2014	March	Saturday	green	06-07	Release requested by patient
+2013	July	Sunday	green	00-01	Withdraw without being attended
+2013	December	Friday	green	08-09	Release requested by patient
+2013	September	Saturday	green	00-01	Release by dying
+2013	January	Tuesday	green	15-16	Withdraw without being attended
+2013	February	Thursday	green	18-19	Administrative release
+2013	March	Sunday	yellow	16-17	Release by internal transference - Hospitalization
+2013	February	Tuesday	red	23-24	Release requested by patient
+2014	December	Wednesday	green	13-14	Release by dying
+2013	March	Wednesday	green	06-07	Release requested by patient
+2013	April	Wednesday	orange	16-17	Withdraw without being attended
+2013	May	Thursday	blue	08-09	Release by dying
+2013	October	Monday	orange	22-23	Administrative release
+2013	April	Thursday	red	14-15	Administrative release
+2014	February	Monday	green	21-22	Release by dying
+2013	August	Sunday	red	11-12	Withdraw without being attended
+2013	December	Friday	green	10-11	Withdraw without being attended
+2013	June	Saturday	blue	06-07	Withdraw without being attended
+2013	November	Sunday	orange	16-17	Withdraw without being attended
+2013	October	Sunday	red	00-01	Withdraw without being attended
+2014	July	Saturday	red	11-12	Administrative release
+2014	March	Saturday	red	15-16	Release requested by patient
+2014	May	Saturday	blue	20-21	Administrative release
+2013	March	Wednesday	blue	00-01	Withdraw without being attended
+2013	April	Thursday	yellow	10-11	Administrative release
+2014	March	Saturday	orange	12-13	Withdraw without being attended
+2013	June	Tuesday	blue	06-07	Release by dying
+2013	February	Wednesday	blue	17-18	Release by dying
+2013	June	Monday	green	10-11	Administrative release
+2013	November	Friday	blue	07-08	Release by dying
+2013	January	Monday	yellow	22-23	Administrative release
+2013	September	Saturday	green	14-15	Release requested by patient
+2014	September	Wednesday	yellow	21-22	Release by internal transference - Hospitalization
+2014	June	Wednesday	orange	00-01	Administrative release
+2014	December	Wednesday	orange	09-10	Withdraw without being attended
+2014	June	Wednesday	blue	22-23	Release requested by patient
+2013	October	Wednesday	yellow	17-18	Administrative release
+2013	February	Friday	green	01-02	Withdraw without being attended
+2013	November	Thursday	blue	20-21	Release requested by patient
+2013	March	Friday	orange	04-05	Release requested by patient
+2013	September	Wednesday	orange	04-05	Release by dying
+2013	March	Thursday	blue	02-03	Release by internal transference - Hospitalization
+2013	August	Sunday	red	09-10	Release by dying
+2013	June	Thursday	green	21-22	Withdraw without being attended
+2013	November	Sunday	green	03-04	Withdraw without being attended
+2013	October	Monday	blue	11-12	Release by dying
+2013	October	Saturday	yellow	04-05	Release by internal transference - Hospitalization
+2013	November	Thursday	red	07-08	Administrative release
+2013	November	Thursday	yellow	21-22	Administrative release
+2013	December	Tuesday	red	13-14	Release by internal transference - Hospitalization
+2013	April	Saturday	orange	21-22	Release by dying
+2013	June	Tuesday	blue	13-14	Withdraw without being attended
+2013	March	Sunday	yellow	13-14	Withdraw without being attended
+2013	April	Thursday	green	16-17	Administrative release
+2013	December	Wednesday	yellow	22-23	Withdraw without being attended
+2013	July	Saturday	yellow	04-05	Release by internal transference - Hospitalization
+2013	November	Saturday	blue	05-06	Release by dying
+2013	April	Tuesday	orange	23-24	Release by dying
+2013	July	Saturday	orange	17-18	Withdraw without being attended
+2013	July	Saturday	blue	07-08	Withdraw without being attended
+2013	October	Tuesday	yellow	06-07	Release requested by patient
+2013	June	Tuesday	green	18-19	Release requested by patient
+2013	June	Wednesday	yellow	07-08	Withdraw without being attended
+2014	April	Friday	orange	04-05	Administrative release
+2013	December	Thursday	red	00-01	Release requested by patient
+2013	March	Saturday	red	07-08	Release by internal transference - Hospitalization
+2013	June	Wednesday	blue	17-18	Administrative release
+2013	June	Monday	blue	11-12	Release by dying
+2013	August	Thursday	red	05-06	Release requested by patient
+2013	January	Wednesday	yellow	06-07	Withdraw without being attended
+2013	April	Thursday	red	04-05	Release by dying
+2013	February	Thursday	orange	22-23	Release by dying
+2013	October	Sunday	green	04-05	Release by dying
+2013	September	Sunday	blue	03-04	Release by internal transference - Hospitalization
+2013	December	Friday	blue	14-15	Withdraw without being attended
+2013	October	Wednesday	yellow	16-17	Release by internal transference - Hospitalization
+2013	August	Saturday	red	04-05	Withdraw without being attended
+2013	December	Friday	blue	23-24	Withdraw without being attended
+2013	April	Thursday	red	13-14	Withdraw without being attended
+2013	January	Friday	blue	01-02	Release by dying
+2013	May	Sunday	green	17-18	Release requested by patient
+2013	June	Monday	green	22-23	Administrative release
+2013	April	Sunday	yellow	20-21	Release requested by patient
+2014	February	Saturday	blue	08-09	Administrative release
+2014	December	Sunday	green	11-12	Administrative release
+2013	October	Wednesday	orange	15-16	Release by internal transference - Hospitalization
+2013	August	Thursday	blue	01-02	Withdraw without being attended
+2013	November	Thursday	blue	22-23	Release by internal transference - Hospitalization
+2013	December	Monday	green	10-11	Administrative release
+2014	January	Thursday	red	16-17	Release by internal transference - Hospitalization
+2013	March	Sunday	red	08-09	Withdraw without being attended
+2013	January	Thursday	yellow	14-15	Release requested by patient
+2013	October	Wednesday	blue	13-14	Withdraw without being attended
+2013	March	Wednesday	red	11-12	Release requested by patient
+2013	May	Friday	orange	22-23	Release by dying
+2013	October	Wednesday	blue	23-24	Withdraw without being attended
+2013	February	Wednesday	red	09-10	Release requested by patient
+2013	June	Friday	blue	05-06	Release by dying
+2013	November	Thursday	blue	00-01	Administrative release
+2014	December	Tuesday	blue	05-06	Administrative release
+2013	August	Thursday	blue	11-12	Administrative release
+2013	January	Tuesday	orange	11-12	Withdraw without being attended
+2014	December	Tuesday	green	03-04	Release by internal transference - Hospitalization
+2014	January	Sunday	green	14-15	Withdraw without being attended
+2013	August	Tuesday	blue	10-11	Administrative release
+2013	August	Wednesday	blue	23-24	Administrative release
+2013	May	Thursday	orange	09-10	Release requested by patient
+2013	June	Friday	yellow	12-13	Release requested by patient
+2013	November	Friday	green	20-21	Release by dying
+2014	September	Thursday	blue	02-03	Release requested by patient
+2013	December	Sunday	red	17-18	Release by internal transference - Hospitalization
+2014	March	Thursday	yellow	01-02	Withdraw without being attended
+2013	April	Sunday	green	09-10	Release requested by patient
+2013	December	Thursday	orange	13-14	Release requested by patient
+2013	October	Monday	orange	00-01	Administrative release
+2013	April	Tuesday	yellow	08-09	Release requested by patient
+2013	March	Wednesday	orange	23-24	Withdraw without being attended
+2013	October	Saturday	green	23-24	Release by internal transference - Hospitalization
+2013	June	Wednesday	blue	18-19	Withdraw without being attended
+2013	January	Friday	orange	17-18	Release requested by patient
+2013	February	Saturday	green	04-05	Administrative release
+2014	October	Monday	blue	17-18	Release requested by patient
+2013	December	Sunday	blue	01-02	Withdraw without being attended
+2014	October	Monday	yellow	00-01	Release requested by patient
+2013	May	Tuesday	yellow	04-05	Withdraw without being attended
+2013	December	Wednesday	red	15-16	Withdraw without being attended
+2013	September	Wednesday	blue	20-21	Release requested by patient
+2014	August	Wednesday	blue	06-07	Administrative release
+2013	July	Thursday	blue	03-04	Withdraw without being attended
+2013	July	Monday	green	09-10	Release by dying
+2013	January	Saturday	orange	03-04	Release by internal transference - Hospitalization
+2013	August	Thursday	green	20-21	Administrative release
+2013	December	Thursday	red	03-04	Release by internal transference - Hospitalization
+2014	July	Wednesday	blue	02-03	Administrative release
+2013	October	Monday	yellow	19-20	Withdraw without being attended
+2013	October	Sunday	red	17-18	Administrative release
+2013	July	Monday	blue	19-20	Release by internal transference - Hospitalization
+2014	December	Friday	yellow	10-11	Administrative release
+2013	January	Saturday	red	09-10	Release by internal transference - Hospitalization
+2014	August	Wednesday	red	23-24	Administrative release
+2013	July	Tuesday	yellow	14-15	Administrative release
+2013	September	Sunday	green	16-17	Release by dying
+2013	May	Wednesday	blue	23-24	Release by internal transference - Hospitalization
+2014	November	Thursday	red	12-13	Release by internal transference - Hospitalization
+2013	April	Monday	yellow	19-20	Release by internal transference - Hospitalization
+2013	March	Sunday	yellow	22-23	Withdraw without being attended
+2013	September	Tuesday	red	23-24	Release by internal transference - Hospitalization
+2013	February	Friday	green	13-14	Release by internal transference - Hospitalization
+2013	August	Monday	blue	20-21	Release by dying
+2013	August	Tuesday	red	09-10	Release by internal transference - Hospitalization
+2013	September	Friday	orange	00-01	Release by internal transference - Hospitalization
+2013	October	Tuesday	orange	13-14	Release by internal transference - Hospitalization
+2013	December	Tuesday	orange	01-02	Release requested by patient
+2013	January	Tuesday	blue	23-24	Administrative release
+2013	October	Saturday	yellow	15-16	Release requested by patient
+2013	January	Sunday	green	00-01	Release by dying
+2014	November	Sunday	blue	17-18	Release by internal transference - Hospitalization
+2013	March	Wednesday	orange	05-06	Withdraw without being attended
+2013	November	Wednesday	blue	11-12	Withdraw without being attended
+2014	May	Thursday	blue	17-18	Release requested by patient
+2013	May	Tuesday	yellow	19-20	Withdraw without being attended
+2013	March	Friday	blue	05-06	Release by dying
+2013	March	Monday	yellow	21-22	Release by dying
+2013	May	Wednesday	red	21-22	Withdraw without being attended
+2013	March	Sunday	orange	20-21	Release requested by patient
+2013	June	Thursday	yellow	03-04	Withdraw without being attended
+2014	August	Wednesday	yellow	07-08	Release requested by patient
+2013	November	Saturday	green	22-23	Withdraw without being attended
+2013	March	Saturday	yellow	13-14	Release by internal transference - Hospitalization
+2013	January	Saturday	orange	15-16	Withdraw without being attended
+2014	January	Monday	blue	10-11	Release by dying
+2013	May	Wednesday	yellow	06-07	Administrative release
+2014	October	Saturday	red	16-17	Administrative release
+2013	November	Sunday	yellow	17-18	Withdraw without being attended
+2013	June	Thursday	yellow	05-06	Release by dying
+2014	August	Wednesday	green	06-07	Administrative release
+2013	May	Tuesday	yellow	22-23	Release by dying
+2013	December	Saturday	red	06-07	Withdraw without being attended
+2013	August	Saturday	orange	09-10	Withdraw without being attended
+2013	September	Friday	yellow	10-11	Administrative release
+2013	March	Tuesday	orange	23-24	Withdraw without being attended
+2013	June	Tuesday	yellow	08-09	Release by dying
+2013	May	Monday	yellow	17-18	Administrative release
+2013	December	Friday	blue	01-02	Administrative release
+2013	November	Saturday	green	06-07	Withdraw without being attended
+2013	June	Wednesday	green	17-18	Release requested by patient
+2014	August	Monday	green	11-12	Release by internal transference - Hospitalization
+2014	April	Wednesday	red	01-02	Withdraw without being attended
+2013	August	Thursday	blue	13-14	Release by internal transference - Hospitalization
+2013	February	Thursday	green	12-13	Withdraw without being attended
+2013	May	Wednesday	red	13-14	Release by internal transference - Hospitalization
+2013	March	Sunday	green	21-22	Administrative release
+2013	May	Monday	green	22-23	Administrative release
+2013	April	Friday	green	13-14	Administrative release
+2013	February	Wednesday	red	14-15	Withdraw without being attended
+2013	January	Saturday	blue	12-13	Release requested by patient
+2013	December	Monday	orange	13-14	Administrative release
+2013	April	Sunday	blue	17-18	Administrative release
+2013	February	Monday	yellow	00-01	Administrative release
+2013	June	Monday	green	07-08	Release by internal transference - Hospitalization
+2013	August	Monday	blue	18-19	Administrative release
+2014	April	Friday	blue	17-18	Release requested by patient
+2013	January	Sunday	orange	01-02	Withdraw without being attended
+2014	October	Monday	blue	12-13	Release by dying
+2013	August	Thursday	yellow	19-20	Release by dying
+2013	February	Saturday	yellow	10-11	Withdraw without being attended
+2013	January	Monday	blue	06-07	Release by internal transference - Hospitalization
+2014	December	Tuesday	blue	15-16	Release by internal transference - Hospitalization
+2013	September	Tuesday	blue	22-23	Release requested by patient
+2013	June	Sunday	blue	16-17	Withdraw without being attended
+2013	March	Wednesday	orange	23-24	Administrative release
+2014	May	Saturday	yellow	20-21	Administrative release
+2013	May	Tuesday	yellow	09-10	Administrative release
+2014	December	Thursday	yellow	11-12	Release by internal transference - Hospitalization
+2013	January	Monday	blue	00-01	Release by internal transference - Hospitalization
+2013	May	Saturday	blue	05-06	Release by internal transference - Hospitalization
+2013	November	Saturday	blue	04-05	Administrative release
+2013	July	Thursday	green	23-24	Release by internal transference - Hospitalization
+2013	May	Thursday	yellow	04-05	Release requested by patient
+2013	October	Tuesday	green	23-24	Administrative release
+2013	May	Monday	green	21-22	Withdraw without being attended
+2014	December	Thursday	yellow	00-01	Withdraw without being attended
+2014	July	Wednesday	blue	22-23	Administrative release
+2013	October	Wednesday	red	04-05	Administrative release
+2013	December	Friday	orange	05-06	Administrative release
+2014	June	Friday	red	18-19	Release by dying
+2013	April	Thursday	green	08-09	Release by dying
+2013	November	Monday	orange	23-24	Administrative release
+2014	May	Thursday	orange	13-14	Release by internal transference - Hospitalization
+2013	November	Wednesday	red	13-14	Administrative release
+2013	September	Monday	green	16-17	Withdraw without being attended
+2013	November	Thursday	red	09-10	Administrative release
+2014	February	Sunday	green	04-05	Administrative release
+2014	August	Friday	red	20-21	Release requested by patient
+2013	June	Wednesday	green	12-13	Release by dying
+2013	November	Monday	yellow	00-01	Release by dying
+2013	December	Sunday	blue	03-04	Release requested by patient
+2013	August	Thursday	orange	03-04	Withdraw without being attended
+2014	July	Tuesday	blue	04-05	Release by dying
+2013	November	Friday	green	00-01	Release by internal transference - Hospitalization
+2014	March	Wednesday	yellow	11-12	Administrative release
+2013	June	Monday	blue	23-24	Withdraw without being attended
+2013	April	Thursday	red	06-07	Withdraw without being attended
+2013	April	Thursday	orange	23-24	Administrative release
+2013	March	Monday	orange	20-21	Administrative release
+2013	July	Sunday	blue	13-14	Release by internal transference - Hospitalization
+2013	April	Friday	yellow	11-12	Release requested by patient
+2013	July	Friday	blue	08-09	Release by dying
+2013	March	Saturday	red	12-13	Administrative release
+2013	November	Friday	yellow	15-16	Release by dying
+2013	October	Friday	green	07-08	Release by dying
+2013	February	Monday	red	20-21	Release by dying
+2013	January	Saturday	green	17-18	Withdraw without being attended
+2013	March	Wednesday	blue	05-06	Administrative release
+2013	April	Wednesday	orange	20-21	Release by internal transference - Hospitalization
+2013	January	Monday	red	03-04	Administrative release
+2013	October	Monday	yellow	03-04	Administrative release
+2014	December	Sunday	blue	09-10	Administrative release
+2013	November	Tuesday	red	17-18	Release requested by patient
+2013	November	Tuesday	green	16-17	Release by dying
+2013	February	Wednesday	red	02-03	Withdraw without being attended
+2013	May	Saturday	green	03-04	Administrative release
+2013	May	Friday	green	08-09	Release by dying
+2013	September	Saturday	green	08-09	Release requested by patient
+2013	May	Sunday	red	09-10	Withdraw without being attended
+2013	December	Tuesday	green	02-03	Release requested by patient
+2013	November	Tuesday	yellow	12-13	Release by dying
+2014	May	Thursday	red	08-09	Release by internal transference - Hospitalization
+2014	August	Wednesday	red	12-13	Administrative release
+2013	February	Sunday	yellow	06-07	Administrative release
+2013	March	Tuesday	blue	15-16	Release by internal transference - Hospitalization
+2013	December	Sunday	orange	19-20	Administrative release
+2013	March	Friday	green	03-04	Administrative release
+2013	December	Thursday	orange	08-09	Release by internal transference - Hospitalization
+2013	April	Friday	yellow	15-16	Release requested by patient
+2013	June	Sunday	yellow	21-22	Release by dying
+2013	June	Sunday	yellow	14-15	Release by internal transference - Hospitalization
+2013	August	Wednesday	yellow	04-05	Withdraw without being attended
+2013	February	Thursday	red	11-12	Release by dying
+2013	December	Wednesday	yellow	08-09	Withdraw without being attended
+2013	January	Sunday	green	00-01	Release by dying
+2013	August	Sunday	yellow	05-06	Release by dying
+2013	July	Monday	green	04-05	Withdraw without being attended
+2013	June	Tuesday	red	21-22	Release by internal transference - Hospitalization
+2013	September	Friday	yellow	18-19	Release by internal transference - Hospitalization
+2013	December	Wednesday	red	22-23	Administrative release
+2014	June	Wednesday	blue	22-23	Release requested by patient
+2013	September	Wednesday	orange	20-21	Withdraw without being attended
+2013	August	Saturday	green	15-16	Release by internal transference - Hospitalization
+2013	November	Friday	red	17-18	Administrative release
+2013	April	Wednesday	red	05-06	Administrative release
+2013	July	Friday	orange	20-21	Release requested by patient
+2013	October	Sunday	blue	17-18	Administrative release
+2013	November	Monday	blue	00-01	Release by internal transference - Hospitalization
+2013	June	Monday	yellow	15-16	Release requested by patient
+2014	August	Saturday	orange	21-22	Withdraw without being attended
+2013	January	Friday	green	18-19	Withdraw without being attended
+2013	August	Wednesday	yellow	03-04	Release by internal transference - Hospitalization
+2013	January	Wednesday	red	07-08	Release by dying
+2013	November	Tuesday	blue	17-18	Administrative release
+2013	April	Tuesday	green	09-10	Release by internal transference - Hospitalization
+2014	August	Friday	red	12-13	Administrative release
+2013	July	Monday	yellow	23-24	Release requested by patient
+2013	October	Tuesday	green	20-21	Release requested by patient
+2014	April	Thursday	orange	00-01	Release by internal transference - Hospitalization
+2013	March	Sunday	green	01-02	Release by internal transference - Hospitalization
+2013	December	Friday	yellow	17-18	Withdraw without being attended
+2013	December	Saturday	blue	12-13	Withdraw without being attended
+2013	May	Sunday	green	03-04	Release by internal transference - Hospitalization
+2013	April	Monday	green	07-08	Withdraw without being attended
+2013	April	Monday	orange	04-05	Release by dying
+2014	July	Tuesday	orange	14-15	Withdraw without being attended
+2013	December	Saturday	orange	00-01	Release by dying
+2013	March	Wednesday	blue	09-10	Administrative release
+2013	May	Saturday	green	06-07	Withdraw without being attended
+2013	May	Friday	red	08-09	Release requested by patient
+2014	October	Wednesday	orange	14-15	Administrative release
+2014	February	Saturday	red	05-06	Release requested by patient
+2013	August	Friday	orange	09-10	Release by dying
+2013	September	Tuesday	orange	18-19	Administrative release
+2014	November	Thursday	red	16-17	Release requested by patient
+2013	March	Tuesday	red	00-01	Release by dying
+2014	March	Saturday	red	12-13	Release by internal transference - Hospitalization
+2014	November	Monday	orange	22-23	Release requested by patient
+2013	May	Thursday	orange	09-10	Release by dying
+2013	March	Friday	green	01-02	Release by internal transference - Hospitalization
+2013	February	Tuesday	yellow	18-19	Release requested by patient
+2014	December	Monday	yellow	14-15	Release by dying
+2013	July	Monday	blue	09-10	Release by internal transference - Hospitalization
+2013	June	Wednesday	yellow	05-06	Administrative release
+2013	March	Saturday	blue	13-14	Release by internal transference - Hospitalization
+2013	October	Friday	orange	09-10	Release by dying
+2014	August	Thursday	yellow	06-07	Release by dying
+2013	January	Saturday	yellow	18-19	Release by internal transference - Hospitalization
+2013	December	Friday	red	15-16	Release by dying
+2014	January	Saturday	orange	19-20	Release requested by patient
+2013	January	Saturday	blue	19-20	Release requested by patient
+2013	August	Saturday	green	17-18	Release requested by patient
+2013	February	Sunday	yellow	11-12	Release by dying
+2013	July	Sunday	green	03-04	Release by dying
+2013	April	Wednesday	blue	20-21	Release by internal transference - Hospitalization
+2014	May	Friday	blue	11-12	Withdraw without being attended
+2013	May	Tuesday	yellow	06-07	Withdraw without being attended
+2013	May	Wednesday	green	13-14	Release requested by patient
+2013	April	Saturday	green	05-06	Withdraw without being attended
+2013	May	Monday	blue	19-20	Release by dying
+2013	November	Thursday	green	09-10	Release by internal transference - Hospitalization
+2013	February	Monday	blue	08-09	Release requested by patient
+2013	March	Sunday	yellow	15-16	Release by dying
+2013	December	Friday	yellow	16-17	Release by dying
+2013	March	Monday	green	03-04	Withdraw without being attended
+2013	December	Sunday	green	07-08	Administrative release
+2013	October	Wednesday	yellow	21-22	Administrative release
+2013	September	Friday	green	00-01	Withdraw without being attended
+2013	December	Friday	yellow	13-14	Withdraw without being attended
+2013	January	Wednesday	red	03-04	Release requested by patient
+2014	November	Thursday	blue	01-02	Administrative release
+2013	October	Saturday	blue	17-18	Withdraw without being attended
+2013	June	Monday	red	11-12	Release by dying
+2014	March	Friday	red	13-14	Withdraw without being attended
+2013	October	Friday	red	04-05	Release requested by patient
+2013	May	Monday	orange	07-08	Release by dying
+2014	December	Thursday	red	21-22	Withdraw without being attended
+2013	August	Sunday	orange	21-22	Release by dying
+2013	September	Thursday	green	22-23	Release requested by patient
+2013	May	Sunday	red	07-08	Administrative release
+2013	October	Friday	blue	04-05	Release by internal transference - Hospitalization
+2013	July	Thursday	blue	22-23	Release by dying
+2013	May	Monday	yellow	04-05	Release requested by patient
+2013	October	Thursday	orange	12-13	Withdraw without being attended
+2013	July	Tuesday	orange	18-19	Release by internal transference - Hospitalization
+2013	October	Monday	blue	04-05	Release requested by patient
+2013	October	Saturday	red	16-17	Withdraw without being attended
+2013	August	Monday	red	21-22	Release requested by patient
+2013	March	Sunday	yellow	02-03	Release requested by patient
+2013	January	Wednesday	yellow	01-02	Release by dying
+2013	November	Friday	blue	17-18	Withdraw without being attended
+2013	May	Sunday	orange	18-19	Administrative release
+2014	December	Saturday	yellow	21-22	Release requested by patient
+2013	December	Wednesday	green	01-02	Withdraw without being attended
+2013	March	Monday	green	21-22	Release by internal transference - Hospitalization
+2013	June	Sunday	blue	14-15	Withdraw without being attended
+2013	May	Wednesday	green	00-01	Release by internal transference - Hospitalization
+2014	January	Thursday	yellow	19-20	Administrative release
+2014	November	Tuesday	yellow	20-21	Release by internal transference - Hospitalization
+2014	May	Monday	blue	19-20	Withdraw without being attended
+2013	April	Thursday	blue	08-09	Withdraw without being attended
+2013	October	Thursday	green	02-03	Administrative release
+2013	April	Sunday	yellow	22-23	Release by dying
+2014	September	Saturday	orange	05-06	Release requested by patient
+2013	May	Monday	blue	07-08	Release by internal transference - Hospitalization
+2013	November	Monday	green	15-16	Release requested by patient
+2013	July	Friday	orange	06-07	Release by dying
+2013	June	Wednesday	yellow	14-15	Release requested by patient
+2014	February	Tuesday	orange	15-16	Release requested by patient
+2013	January	Wednesday	orange	07-08	Release by internal transference - Hospitalization
+2013	June	Thursday	red	04-05	Release by internal transference - Hospitalization
+2013	January	Tuesday	yellow	01-02	Release requested by patient
+2013	January	Thursday	orange	05-06	Administrative release
+2013	December	Friday	red	15-16	Administrative release
+2014	August	Monday	blue	07-08	Release by dying
+2013	July	Wednesday	orange	18-19	Release requested by patient
+2013	February	Friday	green	16-17	Release requested by patient
+2013	April	Thursday	orange	11-12	Administrative release
+2014	February	Friday	orange	04-05	Release by internal transference - Hospitalization
+2013	August	Tuesday	blue	18-19	Release requested by patient
+2013	April	Monday	orange	20-21	Administrative release
+2013	November	Friday	yellow	23-24	Release by dying
+2013	January	Friday	red	22-23	Release requested by patient
+2013	August	Monday	blue	00-01	Release by internal transference - Hospitalization
+2013	August	Sunday	orange	17-18	Withdraw without being attended
+2013	May	Monday	red	04-05	Release by dying
+2013	May	Wednesday	green	21-22	Release requested by patient
+2013	September	Thursday	yellow	19-20	Release by internal transference - Hospitalization
+2013	January	Saturday	orange	03-04	Withdraw without being attended
+2013	August	Saturday	green	09-10	Release by dying
+2014	April	Sunday	red	09-10	Release requested by patient
+2014	March	Friday	green	10-11	Release requested by patient
+2013	May	Tuesday	blue	18-19	Administrative release
+2014	April	Sunday	green	14-15	Release by internal transference - Hospitalization
+2013	July	Sunday	green	11-12	Administrative release
+2013	September	Tuesday	blue	10-11	Release by dying
+2014	October	Monday	orange	03-04	Release requested by patient
+2013	July	Wednesday	orange	14-15	Release by internal transference - Hospitalization
+2013	March	Wednesday	yellow	10-11	Withdraw without being attended
+2013	April	Tuesday	orange	22-23	Administrative release
+2013	September	Thursday	blue	21-22	Release by dying
+2013	March	Monday	yellow	23-24	Withdraw without being attended
+2013	July	Sunday	red	20-21	Release requested by patient
+2013	May	Friday	green	01-02	Withdraw without being attended
+2014	January	Friday	orange	13-14	Release by internal transference - Hospitalization
+2014	May	Wednesday	yellow	16-17	Release by dying
+2014	March	Saturday	yellow	13-14	Release by internal transference - Hospitalization
+2013	July	Thursday	red	09-10	Administrative release
+2013	June	Saturday	blue	14-15	Release by internal transference - Hospitalization
+2013	August	Monday	blue	19-20	Release requested by patient
+2013	May	Tuesday	orange	21-22	Withdraw without being attended
+2014	December	Friday	orange	17-18	Release by dying
+2013	June	Sunday	yellow	09-10	Release by dying
+2013	September	Tuesday	green	05-06	Release by dying
+2013	April	Tuesday	red	10-11	Administrative release
+2013	July	Saturday	green	14-15	Administrative release
+2013	February	Thursday	blue	14-15	Release by internal transference - Hospitalization
+2013	June	Wednesday	orange	16-17	Release by dying
+2013	October	Monday	red	13-14	Administrative release
+2013	June	Friday	yellow	02-03	Release by internal transference - Hospitalization
+2013	August	Friday	green	07-08	Release by dying
+2013	May	Saturday	green	13-14	Release by dying
+2013	November	Tuesday	red	03-04	Release by internal transference - Hospitalization
+2013	September	Tuesday	orange	13-14	Release by internal transference - Hospitalization
+2013	September	Sunday	yellow	19-20	Withdraw without being attended
+2013	March	Thursday	orange	13-14	Release requested by patient
+2014	January	Saturday	yellow	08-09	Release by internal transference - Hospitalization
+2013	August	Monday	orange	05-06	Release by internal transference - Hospitalization
+2013	January	Wednesday	green	02-03	Release requested by patient
+2013	September	Friday	orange	06-07	Release requested by patient
+2013	June	Sunday	red	18-19	Withdraw without being attended
+2013	December	Sunday	orange	04-05	Release by internal transference - Hospitalization
+2013	July	Sunday	orange	19-20	Release by internal transference - Hospitalization
+2014	May	Thursday	yellow	01-02	Administrative release
+2013	September	Friday	blue	08-09	Administrative release
+2013	May	Thursday	orange	06-07	Release by dying
+2013	January	Monday	orange	21-22	Administrative release
+2013	October	Saturday	blue	01-02	Withdraw without being attended
+2013	July	Friday	red	21-22	Release by dying
+2013	January	Friday	blue	02-03	Release by dying
+2014	July	Friday	orange	23-24	Release requested by patient
+2013	August	Thursday	blue	06-07	Release by internal transference - Hospitalization
+2013	February	Saturday	blue	09-10	Release by dying
+2014	August	Wednesday	orange	19-20	Release requested by patient
+2013	October	Friday	yellow	21-22	Release by dying
+2013	March	Monday	yellow	02-03	Release by dying
+2013	March	Monday	orange	02-03	Withdraw without being attended
+2013	March	Sunday	red	12-13	Release by dying
+2014	October	Wednesday	orange	13-14	Release by dying
+2014	December	Sunday	blue	13-14	Release by dying
+2013	February	Tuesday	orange	06-07	Release by internal transference - Hospitalization
+2013	February	Saturday	red	09-10	Release requested by patient
+2013	September	Sunday	green	15-16	Release by internal transference - Hospitalization
+2013	March	Thursday	yellow	08-09	Release by internal transference - Hospitalization
+2013	June	Monday	blue	15-16	Release by dying
+2013	February	Wednesday	blue	22-23	Withdraw without being attended
+2013	April	Friday	yellow	02-03	Release by dying
+2013	April	Saturday	green	15-16	Administrative release
+2013	April	Sunday	yellow	18-19	Release by internal transference - Hospitalization
+2013	June	Friday	orange	12-13	Release requested by patient
+2014	February	Friday	blue	06-07	Release by internal transference - Hospitalization
+2013	October	Wednesday	green	23-24	Release by dying
+2014	July	Wednesday	blue	17-18	Release by dying
+2013	October	Thursday	blue	20-21	Release by internal transference - Hospitalization
+2013	March	Sunday	green	06-07	Release requested by patient
+2013	February	Wednesday	red	06-07	Administrative release
+2013	February	Sunday	green	17-18	Withdraw without being attended
+2013	November	Friday	orange	22-23	Release by internal transference - Hospitalization
+2013	February	Sunday	red	10-11	Release by dying
+2014	September	Monday	yellow	17-18	Release by internal transference - Hospitalization
+2013	January	Tuesday	blue	12-13	Release by internal transference - Hospitalization
+2013	September	Saturday	yellow	19-20	Administrative release
+2013	July	Sunday	orange	20-21	Administrative release
+2013	September	Sunday	yellow	12-13	Release by dying
+2013	April	Monday	blue	01-02	Release by internal transference - Hospitalization
+2013	January	Wednesday	green	15-16	Release by internal transference - Hospitalization
+2013	April	Thursday	green	16-17	Withdraw without being attended
+2013	May	Wednesday	red	22-23	Release requested by patient
+2014	August	Wednesday	red	02-03	Withdraw without being attended
+2013	August	Monday	red	23-24	Release requested by patient
+2013	January	Tuesday	orange	20-21	Release by internal transference - Hospitalization
+2013	August	Tuesday	orange	15-16	Release by dying
+2014	February	Wednesday	red	13-14	Release by dying
+2013	April	Tuesday	blue	01-02	Release by internal transference - Hospitalization
+2013	April	Tuesday	green	14-15	Withdraw without being attended
+2013	January	Thursday	yellow	04-05	Administrative release
+2013	November	Wednesday	green	09-10	Release by internal transference - Hospitalization
+2013	June	Monday	blue	22-23	Withdraw without being attended
+2013	April	Monday	red	13-14	Administrative release
+2013	October	Tuesday	orange	13-14	Withdraw without being attended
+2013	December	Monday	green	11-12	Administrative release
+2013	May	Saturday	orange	21-22	Release by dying
+2013	August	Monday	green	12-13	Administrative release
+2013	March	Wednesday	green	10-11	Release requested by patient
+2013	June	Saturday	green	12-13	Release by dying
+2013	October	Thursday	blue	04-05	Administrative release
+2013	March	Sunday	red	09-10	Administrative release
+2014	June	Friday	red	01-02	Administrative release
+2014	December	Thursday	orange	17-18	Release requested by patient
+2013	April	Wednesday	orange	10-11	Release by dying
+2013	April	Friday	red	14-15	Release requested by patient
+2013	July	Monday	green	19-20	Administrative release
+2013	February	Friday	red	13-14	Release by dying
+2013	August	Saturday	orange	08-09	Release requested by patient
+2013	November	Sunday	orange	15-16	Withdraw without being attended
+2013	August	Monday	green	00-01	Administrative release
+2013	October	Sunday	red	22-23	Release by internal transference - Hospitalization
+2014	December	Tuesday	yellow	21-22	Release by dying
+2013	October	Thursday	red	14-15	Withdraw without being attended
+2013	October	Monday	green	08-09	Release by dying
+2013	July	Tuesday	blue	00-01	Release by internal transference - Hospitalization
+2013	June	Wednesday	red	09-10	Release by internal transference - Hospitalization
+2014	April	Thursday	green	00-01	Release requested by patient
+2013	December	Sunday	red	11-12	Withdraw without being attended
+2013	July	Tuesday	yellow	16-17	Release by dying
+2013	October	Sunday	red	02-03	Release by internal transference - Hospitalization
+2013	June	Friday	orange	17-18	Release by dying
+2013	March	Thursday	orange	12-13	Release by internal transference - Hospitalization
+2013	April	Sunday	red	06-07	Withdraw without being attended
+2013	December	Saturday	green	03-04	Release requested by patient
+2014	July	Saturday	orange	13-14	Release requested by patient
+2013	February	Tuesday	green	09-10	Release by internal transference - Hospitalization
+2013	February	Wednesday	blue	02-03	Release requested by patient
+2013	March	Tuesday	green	18-19	Release by dying
+2014	March	Thursday	red	20-21	Release by internal transference - Hospitalization
+2013	March	Tuesday	red	03-04	Withdraw without being attended
+2013	October	Friday	green	04-05	Release by dying
+2013	April	Sunday	yellow	05-06	Release by dying
+2013	July	Saturday	green	22-23	Release by internal transference - Hospitalization
+2013	January	Wednesday	yellow	12-13	Withdraw without being attended
+2013	November	Sunday	red	17-18	Release by internal transference - Hospitalization
+2013	February	Tuesday	orange	07-08	Release by internal transference - Hospitalization
+2013	August	Saturday	orange	17-18	Release by internal transference - Hospitalization
+2013	June	Wednesday	red	12-13	Administrative release
+2014	December	Thursday	yellow	14-15	Release by dying
+2013	May	Tuesday	orange	17-18	Release by internal transference - Hospitalization
+2013	November	Friday	green	22-23	Release by dying
+2013	February	Monday	yellow	15-16	Release requested by patient
+2013	May	Saturday	green	08-09	Release by dying
+2013	October	Monday	green	03-04	Withdraw without being attended
+2013	May	Sunday	green	04-05	Release by dying
+2013	April	Monday	green	02-03	Release by dying
+2014	December	Tuesday	blue	06-07	Release requested by patient
+2013	July	Saturday	blue	06-07	Release by internal transference - Hospitalization
+2013	December	Wednesday	orange	20-21	Release by dying
+2013	July	Wednesday	yellow	13-14	Release by internal transference - Hospitalization
+2013	October	Friday	green	18-19	Release requested by patient
+2013	October	Sunday	blue	08-09	Release by dying
+2013	March	Thursday	yellow	12-13	Administrative release
+2013	September	Sunday	blue	15-16	Administrative release
+2013	November	Saturday	orange	03-04	Release by internal transference - Hospitalization
+2014	February	Tuesday	yellow	22-23	Release requested by patient
+2013	September	Saturday	orange	01-02	Release by dying
+2013	July	Friday	yellow	17-18	Withdraw without being attended
+2014	April	Monday	yellow	11-12	Release by dying
+2014	July	Wednesday	red	02-03	Withdraw without being attended
+2014	May	Thursday	red	13-14	Administrative release
+2013	May	Thursday	red	02-03	Release requested by patient
+2013	November	Friday	yellow	12-13	Withdraw without being attended
+2013	July	Wednesday	yellow	13-14	Release by dying
+2013	October	Friday	yellow	09-10	Withdraw without being attended
+2013	March	Sunday	green	05-06	Release by internal transference - Hospitalization
+2013	November	Friday	blue	12-13	Withdraw without being attended
+2013	April	Wednesday	blue	20-21	Administrative release
+2013	March	Wednesday	red	08-09	Release requested by patient
+2013	December	Friday	blue	12-13	Release requested by patient
+2014	April	Sunday	red	08-09	Release by dying
+2014	October	Thursday	blue	01-02	Release by internal transference - Hospitalization
+2013	March	Wednesday	orange	01-02	Release by dying
+2013	June	Sunday	yellow	20-21	Release requested by patient
+2014	September	Saturday	red	13-14	Withdraw without being attended
+2013	August	Monday	red	14-15	Release requested by patient
+2013	May	Wednesday	red	11-12	Release by internal transference - Hospitalization
+2013	December	Saturday	orange	17-18	Release by dying
+2013	April	Saturday	green	08-09	Withdraw without being attended
+2013	May	Monday	green	08-09	Release requested by patient
+2014	November	Sunday	red	16-17	Withdraw without being attended
+2014	October	Saturday	green	15-16	Withdraw without being attended
+2013	January	Monday	red	14-15	Release by internal transference - Hospitalization
+2014	March	Wednesday	blue	20-21	Administrative release
+2013	January	Friday	orange	10-11	Release requested by patient
+2013	November	Thursday	green	07-08	Release requested by patient
+2013	July	Thursday	orange	08-09	Release by internal transference - Hospitalization
+2013	February	Thursday	red	07-08	Administrative release
+2014	October	Sunday	red	14-15	Release by internal transference - Hospitalization
+2013	November	Thursday	red	14-15	Withdraw without being attended
+2013	May	Saturday	red	11-12	Withdraw without being attended
+2013	December	Thursday	yellow	17-18	Release by internal transference - Hospitalization
+2014	February	Wednesday	red	03-04	Release by internal transference - Hospitalization
+2013	October	Wednesday	yellow	16-17	Release by dying
+2013	March	Friday	yellow	16-17	Release requested by patient
+2013	December	Monday	yellow	01-02	Release requested by patient
+2014	July	Sunday	blue	06-07	Administrative release
+2013	November	Thursday	green	19-20	Release by dying
+2013	January	Saturday	green	07-08	Release by internal transference - Hospitalization
+2013	December	Thursday	blue	09-10	Withdraw without being attended
+2013	April	Saturday	blue	02-03	Administrative release
+2013	May	Thursday	orange	09-10	Release by internal transference - Hospitalization
+2014	April	Friday	yellow	01-02	Withdraw without being attended
+2013	August	Saturday	red	14-15	Release requested by patient
+2013	December	Monday	green	21-22	Release requested by patient
+2013	November	Tuesday	blue	09-10	Release requested by patient
+2013	July	Wednesday	orange	00-01	Withdraw without being attended
+2013	December	Saturday	green	14-15	Withdraw without being attended
+2014	May	Monday	red	20-21	Withdraw without being attended
+2013	July	Sunday	orange	09-10	Release by dying
+2013	February	Thursday	green	21-22	Release requested by patient
+2013	January	Sunday	red	13-14	Administrative release
+2014	September	Sunday	red	17-18	Administrative release
+2014	June	Saturday	orange	23-24	Withdraw without being attended
+2014	July	Wednesday	green	16-17	Withdraw without being attended
+2013	September	Wednesday	red	02-03	Administrative release
+2013	August	Monday	red	11-12	Release by dying
+2013	June	Wednesday	blue	07-08	Release by internal transference - Hospitalization
+2013	October	Sunday	red	11-12	Release by internal transference - Hospitalization
+2013	October	Tuesday	orange	04-05	Release by internal transference - Hospitalization
+2013	September	Sunday	blue	22-23	Administrative release
+2013	August	Thursday	yellow	10-11	Withdraw without being attended
+2013	December	Sunday	red	09-10	Release by dying
+2013	August	Wednesday	yellow	16-17	Withdraw without being attended
+2013	June	Thursday	yellow	09-10	Release by internal transference - Hospitalization
+2013	January	Thursday	orange	07-08	Withdraw without being attended
+2013	March	Thursday	blue	11-12	Withdraw without being attended
+2014	April	Friday	green	15-16	Withdraw without being attended
+2014	May	Tuesday	red	07-08	Release by internal transference - Hospitalization
+2013	December	Tuesday	red	08-09	Release by internal transference - Hospitalization
+2013	October	Sunday	green	07-08	Release by dying
+2013	August	Saturday	orange	20-21	Withdraw without being attended
+2014	August	Tuesday	blue	11-12	Withdraw without being attended
+2013	June	Friday	yellow	22-23	Withdraw without being attended
+2013	April	Monday	yellow	10-11	Administrative release
+2013	October	Sunday	red	03-04	Withdraw without being attended
+2014	July	Tuesday	blue	05-06	Release requested by patient
+2014	June	Friday	blue	07-08	Release by internal transference - Hospitalization
+2013	March	Friday	red	18-19	Administrative release
+2013	December	Saturday	red	23-24	Withdraw without being attended
+2013	May	Monday	blue	15-16	Release by internal transference - Hospitalization
+2013	April	Wednesday	blue	23-24	Release by internal transference - Hospitalization
+2013	June	Monday	red	14-15	Release by internal transference - Hospitalization
+2014	January	Sunday	yellow	01-02	Release by internal transference - Hospitalization
+2013	December	Saturday	green	21-22	Administrative release
+2014	November	Wednesday	orange	06-07	Release by internal transference - Hospitalization
+2013	December	Friday	red	21-22	Administrative release
+2014	March	Friday	blue	07-08	Withdraw without being attended
+2013	January	Tuesday	blue	07-08	Administrative release
+2013	September	Saturday	yellow	15-16	Release by dying
+2013	October	Wednesday	red	23-24	Release by internal transference - Hospitalization
+2013	June	Thursday	yellow	05-06	Release requested by patient
+2013	June	Sunday	blue	08-09	Release by internal transference - Hospitalization
+2013	December	Sunday	yellow	07-08	Release requested by patient
+2013	July	Sunday	orange	11-12	Release by internal transference - Hospitalization
+2013	June	Wednesday	orange	18-19	Administrative release
+2014	October	Thursday	orange	05-06	Release requested by patient
+2013	April	Friday	red	13-14	Administrative release
+2013	August	Wednesday	green	18-19	Release by internal transference - Hospitalization
+2013	May	Saturday	orange	16-17	Administrative release
+2013	January	Monday	green	05-06	Release requested by patient
+2014	September	Wednesday	orange	22-23	Administrative release
+2013	November	Monday	red	15-16	Release requested by patient
+2013	February	Monday	orange	04-05	Release requested by patient
+2013	March	Monday	yellow	09-10	Administrative release
+2013	May	Monday	blue	21-22	Withdraw without being attended
+2013	March	Saturday	blue	05-06	Administrative release
+2013	November	Saturday	blue	10-11	Release requested by patient
+2014	March	Sunday	orange	08-09	Release by internal transference - Hospitalization
+2013	October	Sunday	orange	06-07	Withdraw without being attended
+2014	November	Tuesday	red	12-13	Release by internal transference - Hospitalization
+2013	June	Thursday	yellow	20-21	Release by dying
+2013	June	Wednesday	blue	08-09	Release by dying
+2014	February	Sunday	yellow	23-24	Release by internal transference - Hospitalization
+2013	February	Sunday	orange	11-12	Release by dying
+2013	April	Tuesday	yellow	03-04	Withdraw without being attended
+2013	December	Wednesday	yellow	13-14	Withdraw without being attended
+2013	May	Saturday	blue	17-18	Release by dying
+2013	August	Sunday	green	14-15	Withdraw without being attended
+2014	October	Monday	orange	17-18	Release by dying
+2013	April	Thursday	red	19-20	Withdraw without being attended
+2013	March	Tuesday	orange	22-23	Release by internal transference - Hospitalization
+2013	September	Thursday	red	17-18	Release by dying
+2013	August	Thursday	blue	11-12	Release requested by patient
+2013	June	Tuesday	green	03-04	Release by dying
+2014	March	Monday	yellow	03-04	Release by dying
+2014	June	Tuesday	blue	14-15	Administrative release
+2013	September	Thursday	blue	09-10	Release requested by patient
+2013	January	Tuesday	orange	22-23	Release by internal transference - Hospitalization
+2013	March	Sunday	red	02-03	Release by dying
+2014	August	Monday	yellow	14-15	Administrative release
+2014	July	Wednesday	red	23-24	Release requested by patient
+2013	July	Sunday	yellow	18-19	Release by dying
+2013	September	Friday	blue	01-02	Release requested by patient
+2013	May	Thursday	red	19-20	Release by dying
+2013	December	Sunday	blue	13-14	Withdraw without being attended
+2013	July	Sunday	red	19-20	Administrative release
+2013	June	Monday	red	09-10	Administrative release
+2013	January	Sunday	green	01-02	Release by internal transference - Hospitalization
+2013	August	Monday	yellow	17-18	Administrative release
+2013	November	Wednesday	red	06-07	Release requested by patient
+2013	September	Monday	orange	02-03	Release requested by patient
+2014	November	Tuesday	orange	00-01	Release by dying
+2013	November	Monday	blue	11-12	Release by dying
+2013	July	Sunday	orange	04-05	Release by internal transference - Hospitalization
+2013	July	Sunday	orange	14-15	Release by internal transference - Hospitalization
+2013	December	Monday	yellow	15-16	Withdraw without being attended
+2013	October	Saturday	red	01-02	Release requested by patient
+2013	June	Wednesday	green	13-14	Withdraw without being attended
+2014	January	Sunday	green	06-07	Withdraw without being attended
+2013	December	Tuesday	blue	07-08	Release requested by patient
+2013	July	Thursday	orange	10-11	Administrative release
+2013	December	Wednesday	orange	02-03	Release by dying
+2014	January	Saturday	yellow	10-11	Administrative release
+2013	July	Friday	red	10-11	Release by dying
+2014	August	Sunday	blue	01-02	Release by dying
+2013	January	Monday	orange	16-17	Administrative release
+2013	February	Saturday	yellow	06-07	Release requested by patient
+2014	August	Friday	yellow	01-02	Release requested by patient
+2014	June	Monday	green	14-15	Release by dying
+2013	March	Thursday	yellow	14-15	Withdraw without being attended
+2013	March	Tuesday	yellow	21-22	Release requested by patient
+2013	April	Wednesday	yellow	06-07	Withdraw without being attended
+2014	May	Wednesday	green	21-22	Release by internal transference - Hospitalization
+2013	August	Sunday	green	20-21	Release by internal transference - Hospitalization
+2013	September	Thursday	red	06-07	Withdraw without being attended
+2013	November	Wednesday	red	05-06	Release by dying
+2013	April	Monday	yellow	06-07	Release by dying
+2013	September	Thursday	red	12-13	Administrative release
+2013	August	Sunday	green	19-20	Release by dying
+2014	February	Tuesday	blue	18-19	Administrative release
+2014	April	Wednesday	blue	20-21	Administrative release
+2013	March	Sunday	green	06-07	Withdraw without being attended
+2013	July	Monday	yellow	19-20	Release requested by patient
+2013	November	Wednesday	green	17-18	Administrative release
+2013	November	Thursday	green	15-16	Release requested by patient
+2014	June	Wednesday	yellow	16-17	Administrative release
+2013	January	Sunday	green	13-14	Administrative release
+2014	January	Sunday	orange	17-18	Withdraw without being attended
+2013	November	Saturday	green	06-07	Withdraw without being attended
+2013	February	Tuesday	blue	03-04	Administrative release
+2013	June	Wednesday	red	02-03	Administrative release
+2013	March	Sunday	red	19-20	Release by internal transference - Hospitalization
+2013	August	Sunday	green	19-20	Release requested by patient
+2014	January	Friday	red	00-01	Administrative release
+2013	February	Friday	orange	21-22	Withdraw without being attended
+2013	August	Saturday	green	19-20	Release requested by patient
+2013	August	Saturday	red	08-09	Administrative release
+2013	July	Sunday	green	10-11	Release by dying
+2013	August	Thursday	red	23-24	Release requested by patient
+2013	December	Thursday	blue	08-09	Release requested by patient
+2014	September	Thursday	red	10-11	Withdraw without being attended
+2014	September	Wednesday	green	12-13	Release requested by patient
+2013	November	Sunday	red	06-07	Withdraw without being attended
+2013	December	Friday	yellow	00-01	Administrative release
+2013	November	Monday	green	19-20	Release by internal transference - Hospitalization
+2013	May	Tuesday	green	20-21	Administrative release
+2013	December	Wednesday	yellow	05-06	Administrative release
+2013	January	Thursday	orange	07-08	Administrative release
+2013	September	Sunday	blue	07-08	Release by dying
+2013	May	Thursday	yellow	11-12	Withdraw without being attended
+2014	April	Thursday	orange	12-13	Release by dying
+2013	March	Saturday	orange	23-24	Release by dying
+2014	November	Sunday	green	15-16	Administrative release
+2014	January	Saturday	blue	15-16	Release by dying
+2014	December	Tuesday	blue	17-18	Release by internal transference - Hospitalization
+2013	January	Saturday	blue	14-15	Release by dying
+2014	January	Sunday	orange	09-10	Administrative release
+2013	February	Sunday	yellow	13-14	Administrative release
+2013	May	Thursday	green	04-05	Withdraw without being attended
+2013	December	Wednesday	orange	09-10	Release by internal transference - Hospitalization
+2013	December	Tuesday	red	22-23	Release by internal transference - Hospitalization
+2013	March	Tuesday	yellow	10-11	Release by dying
+2013	May	Saturday	blue	01-02	Release by internal transference - Hospitalization
+2013	March	Wednesday	green	07-08	Release by dying
+2013	August	Monday	orange	16-17	Release requested by patient
+2013	January	Tuesday	green	23-24	Withdraw without being attended
+2013	March	Friday	red	00-01	Administrative release
+2013	June	Thursday	green	06-07	Release requested by patient
+2013	November	Monday	yellow	16-17	Release by dying
+2013	July	Monday	yellow	11-12	Withdraw without being attended
+2013	October	Monday	orange	15-16	Withdraw without being attended
+2013	October	Friday	yellow	08-09	Administrative release
+2013	March	Monday	orange	22-23	Release requested by patient
+2013	August	Wednesday	blue	15-16	Release by internal transference - Hospitalization
+2013	September	Monday	blue	10-11	Administrative release
+2013	January	Monday	red	00-01	Withdraw without being attended
+2013	September	Monday	yellow	13-14	Release by dying
+2013	January	Saturday	blue	23-24	Release requested by patient
+2013	June	Wednesday	red	16-17	Release requested by patient
+2013	December	Wednesday	red	04-05	Release by dying
+2014	August	Tuesday	orange	23-24	Release by internal transference - Hospitalization
+2014	February	Wednesday	red	11-12	Administrative release
+2013	September	Saturday	orange	19-20	Release by dying
+2013	July	Sunday	blue	02-03	Release by dying
+2013	September	Thursday	blue	16-17	Administrative release
+2013	January	Tuesday	orange	13-14	Release requested by patient
+2013	September	Saturday	red	15-16	Release by internal transference - Hospitalization
+2013	April	Wednesday	yellow	08-09	Release by dying
+2013	March	Monday	blue	00-01	Withdraw without being attended
+2013	August	Friday	red	16-17	Release by internal transference - Hospitalization
+2013	February	Tuesday	yellow	12-13	Release by internal transference - Hospitalization
+2013	March	Friday	red	09-10	Release by internal transference - Hospitalization
+2014	March	Friday	green	16-17	Release by dying
+2013	May	Sunday	blue	12-13	Release by dying
+2014	November	Wednesday	orange	22-23	Release by internal transference - Hospitalization
+2013	April	Thursday	orange	22-23	Withdraw without being attended
+2013	July	Monday	yellow	16-17	Administrative release
+2013	April	Wednesday	green	21-22	Release by dying
+2014	March	Monday	yellow	12-13	Release requested by patient
+2013	April	Saturday	blue	06-07	Withdraw without being attended
+2014	May	Thursday	orange	00-01	Release requested by patient
+2014	January	Saturday	green	01-02	Release by dying
+2013	August	Thursday	orange	12-13	Administrative release
+2013	March	Friday	blue	04-05	Withdraw without being attended
+2013	December	Saturday	yellow	04-05	Release requested by patient
+2013	June	Friday	red	17-18	Withdraw without being attended
+2013	November	Sunday	blue	05-06	Release by dying
+2013	June	Wednesday	yellow	19-20	Release by dying
+2013	January	Tuesday	red	03-04	Release by internal transference - Hospitalization
+2013	March	Sunday	yellow	21-22	Release by internal transference - Hospitalization
+2013	March	Thursday	orange	18-19	Withdraw without being attended
+2013	November	Friday	orange	11-12	Release requested by patient
+2013	January	Thursday	yellow	11-12	Release by internal transference - Hospitalization
+2013	April	Saturday	red	17-18	Administrative release
+2014	April	Sunday	red	17-18	Withdraw without being attended
+2013	December	Sunday	green	01-02	Release by dying
+2014	March	Thursday	yellow	16-17	Withdraw without being attended
+2014	June	Friday	green	12-13	Administrative release
+2013	September	Monday	red	16-17	Release by internal transference - Hospitalization
+2013	March	Sunday	red	07-08	Release by internal transference - Hospitalization
+2013	February	Monday	orange	20-21	Release by dying
+2013	December	Friday	blue	10-11	Release by dying
+2013	September	Saturday	red	10-11	Withdraw without being attended
+2013	December	Thursday	yellow	09-10	Release by internal transference - Hospitalization
+2013	July	Sunday	orange	08-09	Release by internal transference - Hospitalization
+2013	July	Friday	blue	10-11	Administrative release
+2013	July	Saturday	orange	07-08	Release requested by patient
+2013	February	Wednesday	blue	18-19	Withdraw without being attended
+2013	August	Friday	red	11-12	Release by internal transference - Hospitalization
+2013	January	Saturday	orange	01-02	Release by internal transference - Hospitalization
+2013	December	Sunday	yellow	08-09	Release by dying
+2013	January	Friday	green	02-03	Administrative release
+2013	January	Saturday	blue	09-10	Release by dying
+2013	September	Friday	blue	17-18	Release by dying
+2013	November	Wednesday	red	14-15	Administrative release
+2014	April	Tuesday	orange	01-02	Release requested by patient
+2013	February	Sunday	blue	02-03	Withdraw without being attended
+2013	August	Saturday	yellow	03-04	Withdraw without being attended
+2013	July	Wednesday	blue	02-03	Administrative release
+2013	January	Thursday	green	04-05	Release by dying
+2013	February	Friday	green	07-08	Administrative release
+2013	January	Saturday	yellow	00-01	Withdraw without being attended
+2014	July	Saturday	yellow	15-16	Release by dying
+2014	October	Tuesday	red	22-23	Release by internal transference - Hospitalization
+2013	November	Thursday	blue	19-20	Withdraw without being attended
+2014	August	Wednesday	green	16-17	Administrative release
+2013	June	Sunday	orange	21-22	Release by dying
+2013	September	Friday	orange	08-09	Administrative release
+2013	March	Thursday	blue	07-08	Administrative release
+2013	September	Tuesday	red	21-22	Release requested by patient
+2014	February	Wednesday	orange	14-15	Release requested by patient
+2013	May	Tuesday	orange	05-06	Withdraw without being attended
+2013	May	Sunday	green	22-23	Release requested by patient
+2013	April	Friday	blue	04-05	Withdraw without being attended
+2013	February	Saturday	blue	23-24	Release by internal transference - Hospitalization
+2013	November	Friday	orange	07-08	Release by dying
+2013	October	Wednesday	orange	09-10	Administrative release
+2013	August	Saturday	red	14-15	Administrative release
+2013	March	Tuesday	blue	08-09	Release by dying
+2013	January	Tuesday	yellow	06-07	Release requested by patient
+2013	January	Sunday	green	23-24	Release requested by patient
+2013	January	Tuesday	yellow	01-02	Administrative release
+2013	June	Tuesday	green	03-04	Withdraw without being attended
+2013	November	Saturday	green	21-22	Administrative release
+2013	April	Thursday	yellow	05-06	Release requested by patient
+2014	November	Thursday	green	12-13	Withdraw without being attended
+2013	January	Friday	orange	00-01	Administrative release
+2013	May	Wednesday	yellow	00-01	Release requested by patient
+2013	June	Friday	red	02-03	Release by internal transference - Hospitalization
+2013	September	Thursday	red	20-21	Release requested by patient
+2013	February	Friday	red	18-19	Release by dying
+2013	March	Wednesday	orange	07-08	Release requested by patient
+2013	February	Wednesday	blue	16-17	Administrative release
+2013	October	Friday	red	04-05	Withdraw without being attended
+2013	June	Wednesday	yellow	07-08	Release requested by patient
+2013	September	Thursday	green	11-12	Release by dying
+2013	October	Thursday	green	19-20	Administrative release
+2014	March	Sunday	yellow	08-09	Release by internal transference - Hospitalization
+2013	February	Tuesday	red	12-13	Withdraw without being attended
+2013	November	Saturday	orange	07-08	Release requested by patient
+2013	February	Sunday	orange	07-08	Administrative release
+2013	April	Monday	green	06-07	Release by dying
+2013	November	Saturday	orange	16-17	Release by internal transference - Hospitalization
+2014	July	Monday	orange	22-23	Withdraw without being attended
+2013	June	Sunday	yellow	02-03	Release by internal transference - Hospitalization
+2014	November	Friday	yellow	14-15	Release by dying
+2013	October	Saturday	orange	06-07	Withdraw without being attended
+2013	December	Friday	red	04-05	Release by internal transference - Hospitalization
+2013	July	Saturday	green	10-11	Withdraw without being attended
+2013	December	Tuesday	green	18-19	Release by dying
+2013	February	Friday	orange	12-13	Release requested by patient
+2013	January	Saturday	orange	16-17	Administrative release
+2014	September	Friday	orange	07-08	Release by dying
+2013	October	Monday	yellow	04-05	Release by internal transference - Hospitalization
+2013	April	Wednesday	orange	13-14	Release by internal transference - Hospitalization
+2013	August	Sunday	blue	00-01	Release by dying
+2013	November	Monday	blue	09-10	Release by dying
+2014	August	Sunday	blue	01-02	Administrative release
+2013	May	Friday	orange	17-18	Administrative release
+2013	September	Saturday	red	12-13	Release requested by patient
+2013	July	Sunday	yellow	19-20	Release requested by patient
+2013	November	Wednesday	blue	09-10	Administrative release
+2013	May	Friday	blue	20-21	Release requested by patient
+2013	September	Sunday	green	09-10	Release by dying
+2013	August	Monday	green	08-09	Administrative release
+2014	September	Monday	blue	12-13	Release by internal transference - Hospitalization
+2014	May	Sunday	green	15-16	Withdraw without being attended
+2013	March	Sunday	blue	16-17	Release by dying
+2013	October	Sunday	yellow	04-05	Withdraw without being attended
+2013	November	Sunday	orange	16-17	Release requested by patient
+2013	June	Saturday	red	11-12	Release by internal transference - Hospitalization
+2013	June	Monday	green	10-11	Administrative release
+2013	February	Wednesday	red	14-15	Release by internal transference - Hospitalization
+2013	December	Friday	orange	20-21	Administrative release
+2013	December	Monday	yellow	04-05	Administrative release
+2013	April	Thursday	yellow	12-13	Release by dying
+2013	October	Thursday	red	07-08	Release by dying
+2014	November	Monday	orange	12-13	Release by dying
+2013	January	Thursday	yellow	21-22	Release by internal transference - Hospitalization
+2013	January	Sunday	orange	08-09	Release by internal transference - Hospitalization
+2013	April	Friday	orange	22-23	Release requested by patient
+2013	January	Thursday	orange	11-12	Withdraw without being attended
+2013	October	Monday	orange	09-10	Release by internal transference - Hospitalization
+2014	March	Sunday	blue	11-12	Withdraw without being attended
+2013	April	Monday	red	04-05	Release by dying
+2013	September	Friday	blue	18-19	Withdraw without being attended
+2014	May	Saturday	green	04-05	Release requested by patient
+2013	November	Monday	orange	15-16	Release by internal transference - Hospitalization
+2013	April	Thursday	yellow	05-06	Release requested by patient
+2013	April	Monday	green	09-10	Release by internal transference - Hospitalization
+2013	November	Monday	blue	18-19	Administrative release
+2014	March	Saturday	green	09-10	Release by dying
+2013	April	Monday	green	13-14	Withdraw without being attended
+2013	August	Sunday	blue	22-23	Release requested by patient
+2013	March	Monday	green	16-17	Release requested by patient
+2013	June	Tuesday	blue	12-13	Withdraw without being attended
+2013	July	Saturday	orange	04-05	Release requested by patient
+2013	July	Saturday	blue	23-24	Release requested by patient
+2013	October	Sunday	red	07-08	Release requested by patient
+2013	November	Tuesday	orange	00-01	Release by dying
+2013	May	Monday	red	23-24	Administrative release
+2013	April	Wednesday	green	00-01	Withdraw without being attended
+2013	May	Thursday	orange	10-11	Administrative release
+2013	April	Tuesday	orange	09-10	Release by internal transference - Hospitalization
+2013	March	Saturday	green	05-06	Withdraw without being attended
+2014	August	Thursday	red	03-04	Administrative release
+2013	November	Wednesday	yellow	17-18	Release by internal transference - Hospitalization
+2013	August	Wednesday	yellow	05-06	Release by internal transference - Hospitalization
+2013	May	Tuesday	orange	05-06	Administrative release
+2013	January	Sunday	orange	18-19	Release by internal transference - Hospitalization
+2014	September	Tuesday	red	12-13	Release requested by patient
+2013	August	Friday	red	22-23	Release requested by patient
+2013	May	Tuesday	yellow	01-02	Withdraw without being attended
+2013	January	Saturday	blue	12-13	Withdraw without being attended
+2013	January	Saturday	blue	07-08	Withdraw without being attended
+2014	November	Monday	blue	20-21	Release requested by patient
+2013	August	Tuesday	green	14-15	Withdraw without being attended
+2014	October	Friday	red	12-13	Release by dying
+2013	August	Wednesday	orange	06-07	Administrative release
+2013	November	Thursday	blue	08-09	Release requested by patient
+2013	June	Tuesday	green	17-18	Administrative release
+2013	March	Saturday	yellow	14-15	Release requested by patient
+2014	June	Saturday	orange	12-13	Withdraw without being attended
+2014	March	Thursday	blue	15-16	Withdraw without being attended
+2013	November	Friday	orange	01-02	Administrative release
+2013	February	Monday	yellow	12-13	Withdraw without being attended
+2013	April	Wednesday	blue	02-03	Release by internal transference - Hospitalization
+2013	January	Tuesday	green	07-08	Withdraw without being attended
+2013	March	Monday	red	19-20	Release by internal transference - Hospitalization
+2013	November	Monday	yellow	03-04	Release by dying
+2013	July	Saturday	green	11-12	Administrative release
+2013	February	Saturday	red	18-19	Release by internal transference - Hospitalization
+2013	December	Monday	orange	00-01	Withdraw without being attended
+2013	March	Saturday	green	16-17	Withdraw without being attended
+2013	March	Thursday	orange	10-11	Release requested by patient
+2014	December	Monday	blue	21-22	Administrative release
+2013	July	Sunday	yellow	22-23	Withdraw without being attended
+2013	November	Thursday	yellow	14-15	Administrative release
+2013	November	Wednesday	blue	18-19	Release requested by patient
+2013	April	Wednesday	orange	21-22	Release by dying
+2013	April	Saturday	blue	23-24	Release by internal transference - Hospitalization
+2013	December	Friday	blue	19-20	Release by internal transference - Hospitalization
+2014	April	Friday	orange	07-08	Release requested by patient
+2013	March	Tuesday	red	12-13	Administrative release
+2013	November	Wednesday	red	03-04	Release by internal transference - Hospitalization
+2013	February	Sunday	orange	08-09	Release by internal transference - Hospitalization
+2013	February	Saturday	green	21-22	Withdraw without being attended
+2013	November	Thursday	orange	05-06	Release requested by patient
+2013	December	Sunday	green	22-23	Release requested by patient
+2013	June	Tuesday	blue	04-05	Release by internal transference - Hospitalization
+2014	November	Saturday	red	07-08	Administrative release
+2013	December	Wednesday	red	11-12	Administrative release
+2013	April	Sunday	yellow	03-04	Release requested by patient
+2013	November	Saturday	orange	18-19	Administrative release
+2013	July	Friday	red	08-09	Release by dying
+2014	September	Tuesday	orange	23-24	Administrative release
+2013	September	Thursday	orange	09-10	Withdraw without being attended
+2013	February	Monday	green	03-04	Release by internal transference - Hospitalization
+2014	April	Wednesday	yellow	08-09	Withdraw without being attended
+2013	February	Thursday	blue	09-10	Administrative release
+2013	July	Friday	yellow	17-18	Administrative release
+2014	May	Wednesday	blue	06-07	Release by internal transference - Hospitalization
+2014	November	Thursday	blue	20-21	Release by internal transference - Hospitalization
+2013	April	Monday	green	00-01	Withdraw without being attended
+2013	June	Monday	orange	07-08	Release requested by patient
+2013	June	Tuesday	blue	19-20	Release by dying
+2013	September	Thursday	green	06-07	Release by dying
+2014	May	Monday	yellow	10-11	Administrative release
+2014	January	Friday	orange	00-01	Release by dying
+2014	September	Saturday	blue	05-06	Administrative release
+2013	May	Wednesday	red	19-20	Withdraw without being attended
+2013	September	Wednesday	red	06-07	Withdraw without being attended
+2013	July	Wednesday	green	09-10	Release by dying
+2014	September	Monday	orange	23-24	Withdraw without being attended
+2013	March	Monday	red	15-16	Withdraw without being attended
+2013	November	Saturday	blue	21-22	Release requested by patient
+2014	November	Thursday	red	06-07	Release requested by patient
+2013	March	Saturday	red	23-24	Release by internal transference - Hospitalization
+2014	March	Monday	orange	06-07	Release by dying
+2014	January	Sunday	green	10-11	Release requested by patient
+2013	January	Thursday	orange	15-16	Administrative release
+2013	November	Thursday	yellow	21-22	Release requested by patient
+2013	May	Monday	red	14-15	Administrative release
+2013	October	Tuesday	green	22-23	Release by internal transference - Hospitalization
+2014	January	Monday	green	07-08	Release requested by patient
+2013	January	Monday	red	22-23	Release by dying
+2014	October	Tuesday	orange	18-19	Release by dying
+2013	February	Sunday	blue	20-21	Release by internal transference - Hospitalization
+2013	June	Saturday	green	10-11	Release requested by patient
+2013	January	Wednesday	orange	07-08	Administrative release
+2013	February	Monday	red	10-11	Administrative release
+2013	January	Wednesday	yellow	14-15	Administrative release
+2013	October	Friday	red	03-04	Release by dying
+2014	March	Tuesday	red	18-19	Release by dying
+2014	April	Sunday	yellow	03-04	Release requested by patient
+2014	January	Friday	red	21-22	Withdraw without being attended
+2014	October	Saturday	yellow	11-12	Administrative release
+2013	November	Sunday	orange	20-21	Administrative release
+2013	November	Saturday	red	05-06	Release by internal transference - Hospitalization
+2013	July	Tuesday	orange	16-17	Release requested by patient
+2014	October	Thursday	orange	00-01	Release by internal transference - Hospitalization
+2014	May	Tuesday	yellow	21-22	Administrative release
+2013	March	Saturday	red	21-22	Release by dying
+2013	May	Wednesday	red	19-20	Release by internal transference - Hospitalization
+2014	November	Wednesday	orange	02-03	Release requested by patient
+2013	March	Monday	red	19-20	Release requested by patient
+2013	May	Wednesday	red	19-20	Release by dying
+2013	September	Tuesday	orange	03-04	Release requested by patient
+2013	April	Sunday	yellow	14-15	Administrative release
+2013	October	Wednesday	blue	12-13	Release by dying
+2013	April	Tuesday	blue	05-06	Withdraw without being attended
+2013	March	Monday	blue	03-04	Administrative release
+2013	August	Sunday	red	07-08	Release by internal transference - Hospitalization
+2014	October	Thursday	green	19-20	Withdraw without being attended
+2013	September	Friday	yellow	12-13	Administrative release
+2013	April	Sunday	yellow	22-23	Release requested by patient
+2013	December	Monday	green	01-02	Release by internal transference - Hospitalization
+2013	April	Saturday	red	11-12	Release by dying
+2013	February	Saturday	blue	09-10	Release requested by patient
+2013	December	Monday	orange	03-04	Administrative release
+2014	June	Friday	blue	08-09	Release by internal transference - Hospitalization
+2014	March	Monday	red	08-09	Release requested by patient
+2013	August	Friday	green	11-12	Release by dying
+2014	April	Friday	yellow	05-06	Administrative release
+2013	May	Sunday	orange	23-24	Administrative release
+2013	July	Tuesday	yellow	13-14	Release requested by patient
+2014	December	Saturday	red	18-19	Administrative release
+2013	September	Thursday	orange	10-11	Release by internal transference - Hospitalization
+2013	September	Saturday	yellow	06-07	Withdraw without being attended
+2013	June	Tuesday	orange	08-09	Administrative release
+2013	March	Thursday	red	09-10	Release by internal transference - Hospitalization
+2013	October	Wednesday	orange	11-12	Administrative release
+2013	July	Sunday	green	16-17	Release by dying
+2014	June	Sunday	orange	22-23	Release requested by patient
+2013	September	Friday	red	07-08	Release by dying
+2013	September	Tuesday	red	04-05	Release requested by patient
+2013	November	Thursday	red	19-20	Release by dying
+2013	September	Saturday	orange	02-03	Withdraw without being attended
+2014	December	Tuesday	red	06-07	Release by internal transference - Hospitalization
+2014	February	Friday	red	10-11	Release requested by patient
+2013	November	Monday	green	18-19	Release requested by patient
+2013	January	Tuesday	orange	06-07	Release requested by patient
+2014	February	Saturday	red	10-11	Release by internal transference - Hospitalization
+2013	May	Saturday	red	21-22	Release by internal transference - Hospitalization
+2013	May	Monday	orange	12-13	Administrative release
+2013	May	Tuesday	yellow	15-16	Release requested by patient
+2013	June	Thursday	green	16-17	Release by internal transference - Hospitalization
+2013	November	Tuesday	blue	15-16	Release by dying
+2013	March	Sunday	blue	08-09	Release by dying
+2013	June	Sunday	blue	07-08	Release by internal transference - Hospitalization
+2014	September	Saturday	green	08-09	Withdraw without being attended
+2013	April	Monday	yellow	13-14	Release by dying
+2014	March	Monday	green	13-14	Release by internal transference - Hospitalization
+2014	May	Tuesday	blue	22-23	Release by internal transference - Hospitalization
+2013	September	Thursday	orange	21-22	Release by dying
+2013	February	Wednesday	orange	11-12	Administrative release
+2013	October	Saturday	orange	12-13	Release by dying
+2013	March	Tuesday	red	02-03	Release by internal transference - Hospitalization
+2013	March	Wednesday	green	17-18	Release by internal transference - Hospitalization
+2013	February	Saturday	red	16-17	Release by internal transference - Hospitalization
+2013	November	Tuesday	blue	07-08	Administrative release
+2013	February	Monday	orange	22-23	Administrative release
+2013	November	Wednesday	orange	10-11	Release requested by patient
+2013	June	Thursday	red	20-21	Release by internal transference - Hospitalization
+2013	November	Saturday	orange	14-15	Release by dying
+2014	November	Friday	orange	12-13	Release by dying
+2013	June	Tuesday	green	12-13	Withdraw without being attended
+2013	May	Tuesday	blue	09-10	Release by internal transference - Hospitalization
+2013	March	Saturday	orange	22-23	Withdraw without being attended
+2013	March	Friday	red	19-20	Administrative release
+2013	December	Sunday	orange	21-22	Release by dying
+2013	June	Friday	blue	02-03	Release requested by patient
+2013	February	Sunday	orange	06-07	Release by dying
+2013	January	Monday	blue	03-04	Administrative release
+2013	January	Tuesday	red	18-19	Release requested by patient
+2014	March	Saturday	green	16-17	Release by dying
+2014	October	Sunday	blue	13-14	Release by internal transference - Hospitalization
+2014	August	Friday	green	12-13	Release requested by patient
+2014	November	Saturday	blue	22-23	Release by dying
+2013	February	Monday	blue	02-03	Withdraw without being attended
+2013	April	Tuesday	yellow	21-22	Release by dying
+2013	May	Saturday	red	09-10	Administrative release
+2014	June	Wednesday	red	06-07	Release by dying
+2013	February	Tuesday	green	21-22	Release by dying
+2013	October	Sunday	yellow	11-12	Release by internal transference - Hospitalization
+2013	October	Thursday	yellow	18-19	Withdraw without being attended
+2013	February	Friday	orange	14-15	Administrative release
+2013	August	Monday	orange	04-05	Withdraw without being attended
+2013	May	Thursday	blue	04-05	Release by dying
+2013	October	Saturday	green	16-17	Withdraw without being attended
+2013	December	Monday	red	15-16	Release by internal transference - Hospitalization
+2014	August	Friday	yellow	11-12	Release by internal transference - Hospitalization
+2013	January	Sunday	yellow	05-06	Release requested by patient
+2013	August	Sunday	yellow	00-01	Release requested by patient
+2013	March	Sunday	orange	07-08	Administrative release
+2014	April	Monday	green	19-20	Release by internal transference - Hospitalization
+2013	April	Monday	green	12-13	Withdraw without being attended
+2013	April	Sunday	orange	03-04	Withdraw without being attended
+2013	November	Thursday	green	04-05	Release by internal transference - Hospitalization
+2013	July	Monday	blue	01-02	Release by dying
+2013	October	Tuesday	green	01-02	Release requested by patient
+2014	August	Monday	red	18-19	Release by dying
+2014	February	Friday	green	00-01	Administrative release
+2013	May	Friday	orange	20-21	Release requested by patient
+2013	September	Tuesday	yellow	09-10	Release requested by patient
+2013	December	Friday	orange	20-21	Release by dying
+2013	November	Wednesday	blue	15-16	Release requested by patient
+2013	August	Tuesday	red	19-20	Withdraw without being attended
+2013	April	Thursday	yellow	08-09	Release by internal transference - Hospitalization
+2013	June	Sunday	orange	17-18	Release by dying
+2013	December	Monday	orange	18-19	Release requested by patient
+2013	August	Friday	green	01-02	Release requested by patient
+2013	August	Tuesday	red	03-04	Withdraw without being attended
+2013	August	Friday	red	03-04	Release by internal transference - Hospitalization
+2013	September	Wednesday	red	02-03	Release requested by patient
+2013	November	Sunday	orange	17-18	Release requested by patient
+2013	September	Tuesday	red	14-15	Release by internal transference - Hospitalization
+2013	March	Saturday	orange	17-18	Administrative release
+2013	September	Wednesday	blue	05-06	Release requested by patient
+2014	March	Wednesday	blue	02-03	Administrative release
+2014	November	Sunday	red	19-20	Administrative release
+2013	February	Wednesday	red	19-20	Withdraw without being attended
+2013	May	Saturday	green	00-01	Withdraw without being attended
+2013	July	Friday	orange	01-02	Withdraw without being attended
+2013	January	Tuesday	green	15-16	Withdraw without being attended
+2013	March	Sunday	red	23-24	Withdraw without being attended
+2013	April	Wednesday	blue	19-20	Administrative release
+2014	October	Friday	orange	15-16	Release by internal transference - Hospitalization
+2013	March	Monday	blue	17-18	Withdraw without being attended
+2013	September	Monday	orange	00-01	Release by internal transference - Hospitalization
+2013	November	Friday	blue	10-11	Withdraw without being attended
+2014	March	Tuesday	red	19-20	Withdraw without being attended
+2013	June	Tuesday	orange	16-17	Withdraw without being attended
+2013	July	Tuesday	green	16-17	Release requested by patient
+2014	May	Tuesday	red	15-16	Administrative release
+2013	September	Sunday	red	09-10	Release by dying
+2013	November	Saturday	blue	16-17	Release by dying
+2013	May	Wednesday	red	12-13	Withdraw without being attended
+2014	November	Sunday	red	22-23	Release requested by patient
+2013	April	Tuesday	blue	15-16	Release by internal transference - Hospitalization
+2013	January	Sunday	orange	23-24	Release requested by patient
+2013	December	Sunday	yellow	16-17	Release by internal transference - Hospitalization
+2013	September	Saturday	orange	13-14	Release by dying
+2013	August	Tuesday	green	22-23	Administrative release
+2013	August	Thursday	yellow	04-05	Administrative release
+2014	June	Monday	orange	04-05	Withdraw without being attended
+2013	June	Sunday	green	23-24	Administrative release
+2013	December	Tuesday	green	12-13	Release requested by patient
+2014	August	Friday	green	08-09	Administrative release
+2014	May	Monday	red	11-12	Withdraw without being attended
+2014	June	Sunday	green	07-08	Release by dying
+2013	January	Thursday	orange	05-06	Release by internal transference - Hospitalization
+2013	May	Friday	red	07-08	Release by internal transference - Hospitalization
+2014	June	Saturday	yellow	07-08	Release requested by patient
+2013	July	Sunday	orange	04-05	Release requested by patient
+2013	January	Monday	green	03-04	Release by internal transference - Hospitalization
+2013	November	Friday	orange	20-21	Withdraw without being attended
+2013	April	Monday	blue	17-18	Release requested by patient
+2014	November	Tuesday	red	18-19	Release by dying
+2013	October	Thursday	orange	05-06	Administrative release
+2014	January	Saturday	red	09-10	Administrative release
+2013	May	Sunday	yellow	16-17	Administrative release
+2013	March	Tuesday	orange	21-22	Release by dying
+2013	April	Saturday	green	11-12	Withdraw without being attended
+2013	August	Tuesday	red	12-13	Release requested by patient
+2013	May	Tuesday	red	00-01	Administrative release
+2013	August	Thursday	blue	11-12	Release by internal transference - Hospitalization
+2013	September	Monday	blue	16-17	Administrative release
+2013	June	Friday	blue	15-16	Administrative release
+2013	January	Monday	orange	00-01	Release requested by patient
+2013	June	Monday	blue	17-18	Release requested by patient
+2013	October	Tuesday	red	02-03	Administrative release
+2014	November	Sunday	orange	08-09	Withdraw without being attended
+2014	January	Thursday	orange	00-01	Administrative release
+2013	July	Wednesday	red	17-18	Administrative release
+2013	June	Saturday	red	18-19	Administrative release
+2014	April	Saturday	yellow	21-22	Release requested by patient
+2014	August	Monday	red	23-24	Release requested by patient
+2014	March	Tuesday	orange	04-05	Release by dying
+2013	June	Wednesday	orange	12-13	Release requested by patient
+2013	November	Thursday	blue	14-15	Withdraw without being attended
+2013	October	Wednesday	red	03-04	Administrative release
+2013	December	Monday	blue	04-05	Withdraw without being attended
+2013	June	Thursday	yellow	18-19	Administrative release
+2013	February	Wednesday	red	11-12	Release requested by patient
+2013	November	Thursday	red	20-21	Release by dying
+2013	August	Thursday	green	07-08	Administrative release
+2013	July	Monday	green	11-12	Release by dying
+2013	October	Monday	red	10-11	Release by dying
+2013	June	Sunday	green	16-17	Administrative release
+2013	November	Sunday	blue	14-15	Administrative release
+2013	November	Monday	yellow	17-18	Administrative release
+2014	April	Saturday	green	00-01	Administrative release
+2014	February	Wednesday	orange	09-10	Withdraw without being attended
+2014	January	Tuesday	green	23-24	Release by internal transference - Hospitalization
+2013	October	Friday	green	17-18	Administrative release
+2013	March	Friday	red	09-10	Release requested by patient
+2013	December	Wednesday	orange	06-07	Release requested by patient
+2013	June	Friday	yellow	18-19	Release by dying
+2013	May	Friday	blue	05-06	Release by dying
+2014	July	Thursday	orange	16-17	Withdraw without being attended
+2013	November	Saturday	red	21-22	Withdraw without being attended
+2013	February	Monday	red	01-02	Release by internal transference - Hospitalization
+2014	July	Wednesday	orange	22-23	Release requested by patient
+2013	July	Saturday	orange	19-20	Release requested by patient
+2013	March	Saturday	red	19-20	Release by internal transference - Hospitalization
+2013	January	Monday	blue	01-02	Release by dying
+2013	December	Thursday	yellow	04-05	Withdraw without being attended
+2013	July	Thursday	yellow	06-07	Release by dying
+2013	May	Saturday	blue	20-21	Release by dying
+2013	August	Saturday	red	02-03	Withdraw without being attended
+2013	May	Wednesday	yellow	14-15	Release requested by patient
+2013	June	Thursday	orange	15-16	Withdraw without being attended
+2013	June	Wednesday	red	13-14	Administrative release
+2013	March	Wednesday	orange	21-22	Release by internal transference - Hospitalization
+2013	June	Sunday	red	17-18	Release by internal transference - Hospitalization
+2013	January	Saturday	yellow	00-01	Release by internal transference - Hospitalization
+2013	July	Saturday	green	06-07	Release requested by patient
+2013	February	Wednesday	blue	04-05	Withdraw without being attended
+2014	February	Wednesday	green	12-13	Withdraw without being attended
+2013	April	Saturday	yellow	02-03	Release by internal transference - Hospitalization
+2013	September	Saturday	blue	17-18	Administrative release
+2013	May	Sunday	yellow	19-20	Administrative release
+2013	September	Wednesday	orange	08-09	Administrative release
+2013	September	Sunday	blue	14-15	Withdraw without being attended
+2013	May	Monday	red	03-04	Release requested by patient
+2013	February	Wednesday	red	02-03	Withdraw without being attended
+2014	February	Saturday	green	13-14	Administrative release
+2013	September	Sunday	orange	21-22	Administrative release
+2014	November	Monday	orange	20-21	Release by internal transference - Hospitalization
+2013	October	Sunday	yellow	11-12	Release requested by patient
+2013	March	Thursday	blue	15-16	Release by dying
+2014	November	Monday	yellow	16-17	Release by dying
+2013	June	Tuesday	red	01-02	Release by dying
+2013	August	Sunday	yellow	14-15	Administrative release
+2013	July	Sunday	yellow	15-16	Release by dying
+2014	April	Saturday	green	07-08	Administrative release
+2013	October	Saturday	green	01-02	Release by dying
+2013	August	Monday	green	23-24	Release by internal transference - Hospitalization
+2014	May	Friday	red	08-09	Release by internal transference - Hospitalization
+2013	March	Tuesday	blue	11-12	Release by internal transference - Hospitalization
+2013	June	Friday	red	23-24	Withdraw without being attended
+2013	July	Monday	blue	07-08	Release by internal transference - Hospitalization
+2013	October	Tuesday	blue	11-12	Administrative release
+2013	August	Friday	blue	20-21	Release by internal transference - Hospitalization
+2013	October	Wednesday	blue	10-11	Withdraw without being attended
+2013	April	Tuesday	green	10-11	Withdraw without being attended
+2013	March	Tuesday	red	14-15	Administrative release
+2013	January	Sunday	orange	12-13	Release requested by patient
+2014	November	Tuesday	yellow	05-06	Administrative release
+2013	June	Tuesday	yellow	14-15	Release by internal transference - Hospitalization
+2013	March	Sunday	yellow	05-06	Withdraw without being attended
+2013	July	Friday	blue	14-15	Release by dying
+2014	November	Thursday	blue	11-12	Release requested by patient
+2013	June	Wednesday	orange	05-06	Administrative release
+2013	July	Sunday	orange	15-16	Release by internal transference - Hospitalization
+2013	September	Sunday	blue	00-01	Release requested by patient
+2013	January	Tuesday	green	10-11	Release by dying
+2013	November	Sunday	blue	05-06	Administrative release
+2013	July	Friday	green	06-07	Release by dying
+2013	October	Saturday	green	20-21	Release by internal transference - Hospitalization
+2013	May	Saturday	yellow	12-13	Administrative release
+2014	November	Friday	yellow	19-20	Withdraw without being attended
+2013	February	Monday	blue	09-10	Release requested by patient
+2013	March	Thursday	blue	17-18	Release requested by patient
+2013	May	Saturday	blue	19-20	Administrative release
+2013	April	Monday	green	00-01	Release by internal transference - Hospitalization
+2013	February	Sunday	orange	03-04	Withdraw without being attended
+2013	June	Tuesday	green	12-13	Release by internal transference - Hospitalization
+2013	April	Monday	orange	09-10	Release by internal transference - Hospitalization
+2013	July	Tuesday	green	08-09	Release requested by patient
+2013	May	Thursday	yellow	21-22	Withdraw without being attended
+2014	July	Thursday	green	06-07	Release by dying
+2013	November	Monday	blue	06-07	Release by dying
+2014	March	Saturday	orange	03-04	Release by internal transference - Hospitalization
+2013	November	Saturday	red	05-06	Withdraw without being attended
+2013	April	Monday	orange	17-18	Release by internal transference - Hospitalization
+2013	October	Sunday	orange	02-03	Release by internal transference - Hospitalization
+2014	October	Friday	orange	07-08	Administrative release
+2014	October	Saturday	green	00-01	Release requested by patient
+2013	January	Saturday	green	18-19	Release by internal transference - Hospitalization
+2013	August	Friday	blue	13-14	Administrative release
+2014	May	Sunday	red	19-20	Release by dying
+2013	January	Monday	red	22-23	Release requested by patient
+2013	April	Tuesday	blue	03-04	Release by internal transference - Hospitalization
+2014	July	Sunday	green	22-23	Release by dying
+2014	August	Saturday	green	23-24	Release by dying
+2013	January	Tuesday	orange	22-23	Administrative release
+2013	March	Tuesday	yellow	15-16	Release by internal transference - Hospitalization
+2014	August	Thursday	green	22-23	Administrative release
+2013	December	Friday	red	03-04	Release requested by patient
+2013	August	Tuesday	red	11-12	Administrative release
+2013	June	Sunday	blue	00-01	Release by internal transference - Hospitalization
+2013	December	Tuesday	red	12-13	Withdraw without being attended
+2013	August	Tuesday	yellow	19-20	Withdraw without being attended
+2013	May	Tuesday	green	10-11	Withdraw without being attended
+2013	March	Saturday	yellow	11-12	Administrative release
+2013	February	Tuesday	green	22-23	Withdraw without being attended
+2013	January	Saturday	blue	19-20	Release by dying
+2013	March	Wednesday	yellow	04-05	Withdraw without being attended
+2014	November	Friday	red	03-04	Release by internal transference - Hospitalization
+2013	October	Sunday	green	08-09	Release by internal transference - Hospitalization
+2013	February	Friday	orange	05-06	Withdraw without being attended
+2013	January	Wednesday	green	18-19	Administrative release
+2013	May	Wednesday	green	11-12	Administrative release
+2013	September	Thursday	yellow	10-11	Release by internal transference - Hospitalization
+2013	November	Saturday	yellow	00-01	Release by dying
+2013	November	Monday	green	06-07	Release requested by patient
+2013	July	Friday	red	01-02	Administrative release
+2014	March	Saturday	orange	05-06	Release by dying
+2013	October	Sunday	green	19-20	Withdraw without being attended
+2014	February	Saturday	green	05-06	Withdraw without being attended
+2013	January	Saturday	orange	04-05	Administrative release
+2014	July	Thursday	blue	09-10	Withdraw without being attended
+2014	February	Sunday	orange	12-13	Release requested by patient
+2013	March	Friday	yellow	00-01	Release by dying
+2013	October	Sunday	orange	13-14	Release requested by patient
+2013	October	Monday	yellow	22-23	Withdraw without being attended
+2014	August	Saturday	blue	04-05	Administrative release
+2013	January	Tuesday	orange	20-21	Administrative release
+2014	May	Monday	green	03-04	Release requested by patient
+2014	May	Saturday	red	03-04	Release by dying
+2013	June	Monday	red	02-03	Release by internal transference - Hospitalization
+2013	April	Monday	red	09-10	Administrative release
+2013	September	Tuesday	red	05-06	Administrative release
+2013	March	Friday	orange	13-14	Release by dying
+2013	May	Saturday	blue	06-07	Release requested by patient
+2013	January	Wednesday	blue	14-15	Release requested by patient
+2013	October	Friday	yellow	08-09	Withdraw without being attended
+2013	August	Tuesday	orange	19-20	Release by internal transference - Hospitalization
+2014	October	Tuesday	yellow	05-06	Release by internal transference - Hospitalization
+2013	September	Friday	red	09-10	Release by internal transference - Hospitalization
+2013	February	Wednesday	green	17-18	Withdraw without being attended
+2013	July	Saturday	red	03-04	Release by internal transference - Hospitalization
+2013	May	Sunday	yellow	22-23	Release by internal transference - Hospitalization
+2013	December	Tuesday	yellow	09-10	Withdraw without being attended
+2013	December	Thursday	orange	06-07	Administrative release
+2013	June	Thursday	orange	09-10	Release by internal transference - Hospitalization
+2013	May	Saturday	green	23-24	Release by internal transference - Hospitalization
+2013	October	Monday	green	13-14	Release by dying
+2013	March	Wednesday	red	14-15	Release requested by patient
+2013	April	Thursday	yellow	05-06	Release by internal transference - Hospitalization
+2013	March	Sunday	green	23-24	Withdraw without being attended
+2013	November	Thursday	red	23-24	Administrative release
+2013	June	Thursday	red	00-01	Release by dying
+2013	August	Friday	blue	08-09	Release requested by patient
+2013	September	Tuesday	green	19-20	Release by dying
+2013	May	Saturday	blue	17-18	Release by internal transference - Hospitalization
+2013	November	Friday	orange	12-13	Withdraw without being attended
+2013	April	Monday	blue	08-09	Release by internal transference - Hospitalization
+2014	June	Thursday	orange	21-22	Release by dying
+2013	September	Tuesday	orange	03-04	Withdraw without being attended
+2013	November	Tuesday	green	06-07	Release by internal transference - Hospitalization
+2014	April	Thursday	orange	19-20	Release by internal transference - Hospitalization
+2014	October	Wednesday	orange	01-02	Release by dying
+2013	January	Friday	orange	00-01	Withdraw without being attended
+2014	March	Thursday	orange	15-16	Release by dying
+2013	August	Tuesday	red	21-22	Release requested by patient
+2013	August	Thursday	orange	13-14	Release requested by patient
+2013	September	Wednesday	blue	04-05	Release requested by patient
+2013	December	Wednesday	orange	15-16	Release requested by patient
+2014	July	Sunday	blue	08-09	Withdraw without being attended
+2013	January	Friday	blue	23-24	Withdraw without being attended
+2014	April	Friday	green	02-03	Release by dying
+2013	August	Thursday	red	03-04	Withdraw without being attended
+2014	April	Thursday	red	17-18	Release requested by patient
+2013	May	Monday	red	02-03	Administrative release
+2013	May	Monday	yellow	15-16	Release by internal transference - Hospitalization
+2013	February	Thursday	blue	09-10	Withdraw without being attended
+2013	April	Saturday	yellow	17-18	Withdraw without being attended
+2013	January	Monday	yellow	09-10	Administrative release
+2013	October	Sunday	red	22-23	Withdraw without being attended
+2013	August	Saturday	orange	21-22	Withdraw without being attended
+2013	July	Wednesday	green	18-19	Administrative release
+2013	October	Monday	red	15-16	Release by dying
+2013	January	Tuesday	green	00-01	Administrative release
+2013	December	Sunday	blue	03-04	Withdraw without being attended
+2013	December	Wednesday	yellow	00-01	Release by dying
+2013	June	Thursday	orange	09-10	Release by dying
+2013	November	Sunday	blue	17-18	Withdraw without being attended
+2013	April	Wednesday	yellow	02-03	Administrative release
+2013	April	Friday	green	07-08	Withdraw without being attended
+2014	July	Wednesday	green	22-23	Release requested by patient
+2013	February	Wednesday	green	14-15	Release by dying
+2013	May	Tuesday	yellow	22-23	Release by internal transference - Hospitalization
+2013	February	Friday	blue	15-16	Release requested by patient
+2013	December	Wednesday	yellow	18-19	Release by dying
+2013	June	Monday	blue	12-13	Administrative release
+2014	February	Tuesday	green	11-12	Release requested by patient
+2013	August	Saturday	red	22-23	Administrative release
+2013	August	Wednesday	orange	23-24	Release requested by patient
+2013	June	Tuesday	red	18-19	Release by dying
+2013	November	Tuesday	red	21-22	Release requested by patient
+2014	June	Thursday	green	13-14	Withdraw without being attended
+2013	August	Wednesday	orange	02-03	Administrative release
+2013	July	Thursday	blue	23-24	Withdraw without being attended
+2013	August	Friday	green	19-20	Release by internal transference - Hospitalization
+2013	February	Tuesday	orange	10-11	Withdraw without being attended
+2013	December	Monday	yellow	02-03	Withdraw without being attended
+2013	June	Tuesday	red	15-16	Administrative release

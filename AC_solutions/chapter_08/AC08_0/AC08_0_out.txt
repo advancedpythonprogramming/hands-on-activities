@@ -1,0 +1,24 @@
+client arrives 2.018651871983491
+queues 1 0
+client arrives 4.308711573727509
+queues 1 1
+client arrives 5.808084980287511
+queues 2 1
+client arrives 7.219634211777478
+queues 2 2
+[start] departure queue 1 2 2
+[end] departure queue 1 1 2
+client arrives 8.990126942803945
+queues 2 2
+.
+.
+.
+queues 7 7
+client arrives 75.44808244596597
+queues 8 7
+client arrives 78.13651645441256
+queues 8 8
+[start] departure queue 1 8 8
+[end] departure queue 1 7 8
+[start] departure queue 0 8 7
+[end] departure queue 0 7 7

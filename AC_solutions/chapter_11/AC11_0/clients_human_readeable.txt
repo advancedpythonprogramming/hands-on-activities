@@ -1,0 +1,4 @@
+Client(Bob, 12345, 5
+Client(Charles,23980 , 20)
+Client(Alice, 19394, 12)
+Client(Kate,43281 , 6)
